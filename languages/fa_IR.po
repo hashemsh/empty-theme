@@ -1,0 +1,3937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-03-07 15:16+0330\n"
+"PO-Revision-Date: 2017-03-07 15:17+0330\n"
+"Last-Translator: Mojtaba Darvishi <mojtabadarvishi@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: archive.php:18 home.php:22 inc/woocommerce/wc_customize_theme.class.php:100
+msgid "Populars"
+msgstr "محبوبترین‌ها"
+
+#: author.php:45 inc/functions.php:238 woocommerce/myaccount/navigation.php:33
+msgid "User of HamyarWp"
+msgstr "عضو همیار وردپرس"
+
+#: author.php:56
+msgid "Edit Profile"
+msgstr "ویرایش پروفایل"
+
+#: author.php:71 template-parts/content-single.php:140
+#: woocommerce/myaccount/dashboard.php:158
+msgid "Point"
+msgstr "امتیاز"
+
+#: author.php:78 woocommerce/myaccount/dashboard.php:163
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: author.php:85 woocommerce/myaccount/dashboard.php:168
+msgid "Article"
+msgstr "مقاله"
+
+#: comments.php:29
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده است."
+
+#: comments.php:38
+#, php-format
+msgid ""
+"You are logged in as  <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Logout?</a>"
+msgstr ""
+"شما با حساب  <a href=\"%1$s\">%2$s</a> وارد شده‌اید. <a href=\"%3$s\">خارج "
+"می‌شوید؟</a>"
+
+#: comments.php:43
+msgid "Comment text"
+msgstr "متن دیدگاه"
+
+#: comments.php:55 woocommerce/single-product-reviews.php:82
+msgid "Post's Comments"
+msgstr "دیدگاه‌های این نوشته"
+
+#: comments.php:57 woocommerce/single-product-reviews.php:84
+msgid "Newest"
+msgstr "جدید"
+
+#: comments.php:58 inc/features/comment-rating/comment-rating.class.php:111
+#: woocommerce/single-product-reviews.php:85
+msgid "Featured"
+msgstr "شاخص"
+
+#: comments.php:116
+msgid "There is no comments for this post"
+msgstr "دیدگاهی برای این مقاله وجود ندارد."
+
+#: fake_gateway.php:32 inc/features/downloads/downloads.class.php:55
+#: inc/features/downloads/partials/options.php:6
+#: inc/features/tickets/partials/settings.php:2
+#: inc/features/tickets/tickets.class.php:127
+#: inc/features/tickets/tickets.class.php:128
+#: inc/features/wallet/partials/main_menu.php:2
+#: inc/features/wallet/wallet.class.php:76
+#: inc/features/wallet/wallet.class.php:77
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: fake_gateway.php:37 inc/features/wallet/gateway.php:36
+msgid "Active/Deactive"
+msgstr "فعال/غیرفعال"
+
+#: fake_gateway.php:44 inc/features/tickets/partials/all_tickets.php:107
+#: inc/features/tickets/partials/all_tickets.php:120
+#: inc/features/tickets/partials/dashboard.php:107
+#: inc/features/tickets/partials/dashboard.php:120
+#: inc/features/tickets/partials/search.php:242
+#: inc/features/tickets/partials/search.php:255
+#: inc/options/wc-my-account-tabs-callback.php:76
+#: inc/options/wc-my-account-tabs-callback.php:85
+msgid "Title"
+msgstr "عنوان"
+
+#: fake_gateway.php:50 fake_gateway.php:53
+#: inc/features/shortcodes/wallet_logs.php:54
+#: inc/features/shortcodes/wallet_logs.php:63
+#: inc/features/wallet/charge-cart.class.php:153
+#: inc/features/wallet/partials/carts_list.php:140
+#: inc/features/wallet/partials/carts_list.php:154
+#: inc/features/wallet/partials/export.php:40
+#: inc/features/wallet/partials/generate_cart.php:55
+#: inc/features/wallet/partials/log_menu.php:123
+#: inc/features/wallet/partials/log_menu.php:133
+msgid "Description"
+msgstr "توضیحات"
+
+#: footer-shop.php:27 footer.php:23
+#, php-format
+msgid "There are %s student in %s HamyarWp's Courses!"
+msgstr "تاکنون %s  نفر در %s دوره‌ی آنلاین همیاروردپرس شرکت کرده‌اند!"
+
+#: footer-shop.php:34 footer.php:30
+msgid "Get Strated with a Course"
+msgstr "شرکت در دوره‌های آنلاین"
+
+#: footer-shop.php:49 footer.php:45
+msgid "The Story of a Dream"
+msgstr "داستان یک آرزو"
+
+#: footer-shop.php:51 footer.php:47
+msgid "Story test"
+msgstr ""
+"همیشه آرزو داشتم یک منبع آموزشی فارسی وردپرس می بود تا علاوه بر یادگیری ساده "
+"تر وردپرس ، از پیشنهادات آموزشی آن استفاده میکردم. آن آرزو، اکنون، \"همیار "
+"وردپرس\" نام دارد."
+
+#: footer-shop.php:52 footer.php:48
+msgid "Ali Hajimohamadi"
+msgstr "علی حاجی‌محمدی"
+
+#: footer-shop.php:53 footer.php:49
+msgid "Founder Of HamyarWp"
+msgstr "بنیان‌گذار همیار وردپرس"
+
+#: footer-shop.php:61 footer.php:57 template-parts/content-single.php:159
+msgid "Please insert a valid email"
+msgstr "لطفا یک ایمیل معتبر وارد کنید"
+
+#: footer-shop.php:62 footer.php:58 template-parts/content-single.php:160
+msgid "Please insert your name"
+msgstr "لطفا نام خود را وارد کنید"
+
+#: footer-shop.php:63 footer.php:59 template-parts/content-single.php:161
+msgid "Please insert a valid mobile number"
+msgstr "لطفا یک شماره موبایل معتبر وارد کنید"
+
+#: footer-shop.php:64 footer.php:60 template-parts/content-single.php:162
+msgid "Thanks! Your email address has benn added to our newsletter"
+msgstr "متشکریم! شما همینک عضو خبرنامه ما هستید."
+
+#: footer-shop.php:65 footer.php:61 template-parts/content-single.php:163
+msgid "Something goes wrong, please try again"
+msgstr "خطایی رخ داد. لطفا دوباره سعی کنید"
+
+#: footer-shop.php:67 footer.php:63 template-parts/content-single.php:165
+msgid "Your Name"
+msgstr "نام"
+
+#: footer-shop.php:68 footer.php:64 template-parts/content-single.php:166
+msgid "Your Mobile"
+msgstr "شماره موبایل"
+
+#: footer-shop.php:69 footer.php:65 template-parts/content-single.php:167
+msgid "Your Email"
+msgstr "ایمیل"
+
+#: footer-shop.php:70 footer.php:66 template-parts/content-single.php:168
+msgid "Subscribe!"
+msgstr "عضویت!"
+
+#: footer-shop.php:81 footer.php:77
+msgid "Download HamyarWp App"
+msgstr "دانلود اپ همیار وردپرس"
+
+#: footer-shop.php:82 footer.php:78
+msgid "Download From Bazaar"
+msgstr "دانلود از کافه بازار"
+
+#: footer-shop.php:107 footer.php:103
+msgid "Address:"
+msgstr "آدرس:"
+
+#: footer-shop.php:108 footer.php:104
+msgid "Phone:"
+msgstr "تلفن:"
+
+#: footer-shop.php:134 footer.php:130
+msgid "Login to Site"
+msgstr "ورود به سایت"
+
+#: footer-shop.php:141 footer.php:137 inc/options/options.class.php:106
+msgid "Forgot Password"
+msgstr "فراموشی رمز عبور"
+
+#: footer-shop.php:146 footer.php:142
+msgid "Not registred yet?"
+msgstr "هنوز عضو نیستید؟"
+
+#: footer-shop.php:147 footer.php:143 header-shop.php:238 header-shop.php:395
+#: header.php:230 header.php:387
+msgid "Register Now"
+msgstr "ثبت‌نام کنید"
+
+#: footer.php:160
+msgid "get download link"
+msgstr "دریافت لینک دانلود"
+
+#: footer.php:174
+msgid "Name (Optional)"
+msgstr "نام (اختیاری)"
+
+#: footer.php:175
+msgid "Enter your name"
+msgstr "نام خود را وارد کنید"
+
+#: footer.php:178
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: footer.php:179
+msgid "Enter your email address"
+msgstr "آدرس ایمیل خود را وارد کنید"
+
+#: footer.php:182
+msgid "Mobile Number (Optional)"
+msgstr "شماره موبایل (اختیاری)"
+
+#: footer.php:183
+msgid "Enter your mobile number"
+msgstr "شماره موبایل خود ار وارد کنید"
+
+#: footer.php:186
+msgid "Email download link now"
+msgstr "لینک دانلود را همین الان برایم ایمیل کن"
+
+#: footer.php:197
+#, php-format
+msgid ""
+"Why did not <a href=\"%s\" target=\"_blank\"> register </a> to hide this "
+"window and direct download?"
+msgstr ""
+"چرا  <a href=\"%s\" target=\"_blank\">عضو سایت</a> نمی‌شوید تا دیگر این پنجره "
+"را نبینید و مستقیم دانلود کنید؟ "
+
+#: header-shop.php:34 header-shop.php:61 header.php:53
+msgid "I use this now"
+msgstr "همین الان استفاده می‌کنم"
+
+#: header-shop.php:55 header.php:47
+#, php-format
+msgid "Dear %s, Your %s gift will be expired in %s"
+msgstr "%s عزیز، %s اعتبار هدیه شما تا %s دیگر قابل استفاده است."
+
+#: header-shop.php:147 header-shop.php:301 header.php:139 header.php:293
+msgid "Total:"
+msgstr "جمع کل:"
+
+#: header-shop.php:148 header-shop.php:301 header.php:140 header.php:293
+msgid "Course"
+msgstr "آموزش"
+
+#: header-shop.php:171 header-shop.php:295 header.php:163 header.php:287
+#: woocommerce/myaccount/dashboard.php:79
+#: woocommerce/myaccount/dashboard.php:130
+msgid "Price:"
+msgstr "قیمت:"
+
+#: header-shop.php:183 header.php:175
+msgid "Pay"
+msgstr "پرداخت"
+
+#: header-shop.php:190 header-shop.php:310 header.php:182 header.php:302
+msgid "Your card im empty!"
+msgstr "سبد خرید شما خالی است!"
+
+#: header-shop.php:192 header-shop.php:312 header.php:184 header.php:304
+msgid "Start Shopping"
+msgstr "شروع خرید"
+
+#: header-shop.php:212 header-shop.php:372 header.php:204 header.php:364
+#, php-format
+msgid "Hello Dear %s "
+msgstr "سلام %s عزیز"
+
+#: header-shop.php:219 header-shop.php:379 header.php:211 header.php:371
+msgid "Wallet:"
+msgstr "کیف پول:"
+
+#: header-shop.php:294 header.php:286
+msgid "Teacher:"
+msgstr "مدرس:"
+
+#: header-shop.php:305 header.php:297
+msgid "Card"
+msgstr "سبد خرید"
+
+#: header-shop.php:306 header.php:298
+msgid "Finalize and Pay"
+msgstr "اتمام خرید و پرداخت آنلاین"
+
+#: header.php:26
+msgid ""
+"opportunity of creating online buisines in 96 new year with 50 percent off"
+msgstr "فرصت یادگیری راه اندازی کسب و کار اینترنتی در نوروز ۹۶ با ۵۰٪ تخفیف"
+
+#: header.php:27
+msgid "View new year festival"
+msgstr "مشاهده جشنواره نوروزی ۹۶"
+
+#: home.php:20 inc/features/downloads/template-old.php:12 index.php:11
+msgid "Newest Free Articles"
+msgstr "جدیدترین مقالات آموزشی رایگان"
+
+#: inc/admin.class.php:65
+msgid "No Product Found!"
+msgstr "محصولی یافت نشد!"
+
+#: inc/admin.class.php:86
+msgid "No User Found!"
+msgstr "کاربری یافت نشد!"
+
+#: inc/classes/affwp.class.php:38
+msgid "Leaderboard"
+msgstr "برترین‌ها"
+
+#: inc/classes/affwp.class.php:51
+msgid "Top affiliate users by refferals"
+msgstr "برترین کاربران بر اساس ارجاع‌ها"
+
+#: inc/classes/affwp.class.php:54
+msgid "Top affiliate users by earnings"
+msgstr "برترین کاربران بر اساس درآمد"
+
+#: inc/classes/affwp.class.php:57
+msgid "Top affiliate users by visits"
+msgstr "برترین کاربران بر اساس بازدید"
+
+#: inc/classes/affwp.class.php:96 woocommerce/myaccount/dashboard.php:153
+msgid "Toman"
+msgstr "تومان"
+
+#: inc/features/comment-rating/comment-rating.class.php:137
+msgid "Comment id is not valid."
+msgstr "شناسه دیدگاه معتبر نمی‌باشد."
+
+#: inc/features/downloads/downloads.class.php:44
+msgid "Free Downloads Settings"
+msgstr "تنظیمات دانلودهای رایگان"
+
+#: inc/features/downloads/downloads.class.php:44
+msgid "Free Downloads"
+msgstr "دانلودهای رایگان"
+
+#: inc/features/downloads/downloads.class.php:56
+msgid "Group"
+msgstr "گروه"
+
+#: inc/features/downloads/downloads.class.php:57
+msgid "Email Template"
+msgstr "قالب ایمیل"
+
+#: inc/features/downloads/downloads.class.php:65
+#: inc/features/tickets/tickets.class.php:645
+msgid "Available tags:"
+msgstr "تگ‌های قابل استفاده:"
+
+#: inc/features/downloads/downloads.class.php:66
+msgid "Download Link"
+msgstr "لینک دانلود"
+
+#: inc/features/downloads/downloads.class.php:67
+msgid "Product Title"
+msgstr "عنوان مطلب"
+
+#: inc/features/downloads/downloads.class.php:76
+#: inc/options/options.class.php:474
+msgid "Subscriber"
+msgstr "مشترک"
+
+#: inc/features/downloads/downloads.class.php:159
+msgid "Email address is not valid"
+msgstr "آدرس ایمیل معتبر نمی‌باشد."
+
+#: inc/features/downloads/downloads.class.php:732
+msgid ""
+"with fake email can not use hamyarwp's services :( please insert a valid "
+"email."
+msgstr ""
+"با ایمیل‌های جعلی نمی‌توانید از خدمات همیار وردپرس استفاده کنید :( لطفا از "
+"ایمیل اصلی خود استفاده کنید."
+
+#: inc/features/downloads/downloads.class.php:744
+#, php-format
+msgid "Get download link of %s"
+msgstr "دریافت لینک دانلود %s"
+
+#: inc/features/downloads/downloads.class.php:764
+msgid ""
+"HOOORA! Download link is now in your inbox. got to your email and download "
+"the file."
+msgstr ""
+"هوورا ... لینک دانلود اکنون در ایمیل شماست.همین الان به سراغ inbox خود بروید "
+"و و فایل  را دانلود نمایید"
+
+#: inc/features/downloads/downloads.class.php:767
+#: inc/features/shortcodes/new_ticket.php:51
+msgid "Somethings goes wrong! please try again."
+msgstr "خطایی رخ داد. لطفا دوباره سعی کنید."
+
+#: inc/features/downloads/downloads.class.php:903 inc/public.class.php:184
+#: inc/woocommerce/woocommerce.class.php:343
+msgid "Nonce code is invalid"
+msgstr "کلید nonce نا معتبر است."
+
+#: inc/features/downloads/downloads.class.php:912
+msgid "Your download link is invalid."
+msgstr "لینک دانلود شما نامعتبر است."
+
+#: inc/features/downloads/partials/dashboard.php:74
+msgid "Chart Report"
+msgstr "گزارش نموداری"
+
+#: inc/features/downloads/partials/dashboard.php:79
+msgid "Today count:"
+msgstr "تعداد امروز:"
+
+#: inc/features/downloads/partials/dashboard.php:83
+msgid "This mount count"
+msgstr "تعداد ماه جاری:"
+
+#: inc/features/downloads/partials/dashboard.php:87
+msgid "Total Count"
+msgstr "مجموع:"
+
+#: inc/features/downloads/partials/dashboard.php:93
+msgid "Display by"
+msgstr "نمایش بر اساس"
+
+#: inc/features/downloads/partials/dashboard.php:96
+msgid "This week"
+msgstr "این هفته"
+
+#: inc/features/downloads/partials/dashboard.php:97
+msgid "This mount"
+msgstr "این ماه"
+
+#: inc/features/downloads/partials/dashboard.php:98
+msgid "This Year"
+msgstr "این سال"
+
+#: inc/features/downloads/partials/dashboard.php:102
+#: inc/features/shortcodes/assigned_tickets.php:53
+#: inc/features/tickets/partials/search.php:176
+#: inc/features/wallet/partials/carts_list.php:50
+#: inc/features/wallet/partials/log_menu.php:87
+#: template-parts/content-filter.php:46
+msgid "Filter"
+msgstr "صافی"
+
+#: inc/features/downloads/partials/dashboard.php:115
+msgid "User email downloads"
+msgstr "تعداد ایمیل دانلودی کاربران"
+
+#: inc/features/downloads/partials/dashboard.php:122
+#: inc/features/downloads/partials/dashboard.php:126
+msgid "Count"
+msgstr "تعداد"
+
+#: inc/features/downloads/partials/dashboard.php:143
+msgid "Popular post downloaded"
+msgstr "محبوب‌ترین نوشته‌های دانلودی"
+
+#: inc/features/downloads/partials/dashboard.php:154
+#: inc/features/downloads/partials/dashboard.php:184
+#: inc/features/shortcodes/shortcodes.class.php:65
+#, php-format
+msgid "%s Times Downloaded"
+msgstr "%s بار دانلود"
+
+#: inc/features/downloads/partials/dashboard.php:167
+msgid "Popular download url"
+msgstr "محبوب‌ترین فایل‌های دانلودی"
+
+#: inc/features/downloads/partials/dashboard.php:179
+#, php-format
+msgid "%s from %s"
+msgstr "%s از %s"
+
+#: inc/features/downloads/partials/export.php:29
+msgid "AND"
+msgstr "AND"
+
+#: inc/features/downloads/partials/export.php:30
+msgid "OR"
+msgstr "OR"
+
+#: inc/features/downloads/partials/export.php:37
+#: inc/features/downloads/partials/options.php:7
+#: inc/features/wallet/partials/charge_menu.php:9
+#: inc/features/wallet/partials/export.php:73
+msgid "Export"
+msgstr "برون‌بری"
+
+#: inc/features/downloads/partials/export.php:43
+msgid "Post"
+msgstr "نوشته"
+
+#: inc/features/downloads/partials/export.php:44
+#: inc/features/wallet/charge-cart.class.php:152
+#: inc/features/wallet/partials/carts_list.php:139
+#: inc/features/wallet/partials/carts_list.php:153
+#: inc/features/wallet/partials/export.php:36
+#: inc/features/wallet/partials/generate_cart.php:41
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#: inc/features/downloads/partials/export.php:45
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+#: inc/features/downloads/partials/export.php:46
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#: inc/features/downloads/partials/export.php:47
+msgid "Relation"
+msgstr "رابطه"
+
+#: inc/features/downloads/partials/options.php:2
+#: inc/woocommerce/panel.class.php:95
+msgid "Downloads"
+msgstr "دانلودها"
+
+#: inc/features/downloads/partials/options.php:5
+#: inc/features/tickets/tickets.class.php:103
+#: inc/features/tickets/tickets.class.php:104 inc/woocommerce/panel.class.php:93
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: inc/features/downloads/template-old.php:16
+#: inc/features/downloads/template.php:27
+msgid "User"
+msgstr "عضو"
+
+#: inc/features/downloads/template-old.php:22
+#: inc/features/downloads/template.php:33
+#, php-format
+msgid "Dear %s, your download will be started automatically in %s second."
+msgstr "%s عزیز، دانلود شما %s ثانیه دیگر به صورت خودکار شروع خواهد شد."
+
+#: inc/features/downloads/template.php:21
+#, php-format
+msgid "Download a file from %s"
+msgstr "دانلود فایلی از %s"
+
+#: inc/features/downloads/template.php:40
+msgid "If your download does'nt start automatically"
+msgstr "اگر دانلود شما به صورت خودکار شروع نشد"
+
+#: inc/features/downloads/template.php:41
+msgid "Click Here Please"
+msgstr "لطفا اینجا کلیک کنید"
+
+#: inc/features/downloads/template.php:42
+#, php-format
+msgid "Return to post %s"
+msgstr "بازگشت به مطلب %s"
+
+#: inc/features/filter/filter.class.php:167
+#: inc/features/filter/filter.class.php:184
+msgid "Filter's Categories"
+msgstr "دسته‌های فیلتر"
+
+#: inc/features/menu-icon/menu-item-icon-field.php:23
+#: inc/options/wc-my-account-tabs-callback.php:77
+#: inc/options/wc-my-account-tabs-callback.php:86
+msgid "Icon"
+msgstr "آیکن"
+
+#: inc/features/menu-icon/menu-item-icon-field.php:94
+msgid "Here"
+msgstr "اینجا"
+
+#: inc/features/menu-icon/menu-item-icon-field.php:96
+#, php-format
+msgid ""
+"Please select your icon from %1$s and insert it's name in the field. For "
+"example: fa-anchor"
+msgstr ""
+"لطفا آیکن مورد نظر خود را از %1$s  انتخاب کرده و نام آن را داخل فیلد قرار "
+"دهید. به عنوان مثال:  fa-anchor"
+
+#: inc/features/profile/profile.class.php:38
+msgid "Users Permalink"
+msgstr "پیوند یکتای کاربران"
+
+#: inc/features/profile/profile.class.php:41
+msgid "Users Profile URL base"
+msgstr "مبنای آدرس پروفایل"
+
+#: inc/features/profile/profile.class.php:50
+msgid "Set your author basename for using in users profile page url"
+msgstr ""
+"مبنای صفحه‌ی کاربران را که در آدرس پروفایل هر کاربر استفاده می‌شود را وارد کنید."
+
+#: inc/features/profile/profile.class.php:146
+#: inc/features/profile/profile.class.php:148
+#: inc/features/shortcodes/assigned_tickets.php:94
+#: inc/features/shortcodes/assigned_tickets.php:96
+#: inc/features/tickets/templates/archive-tickets.php:75
+#: inc/features/tickets/templates/archive-tickets.php:77
+#: inc/features/wallet/partials/carts_list.php:72
+#: inc/features/wallet/partials/log_menu.php:109
+msgid "Next Page"
+msgstr "صفحه بعد"
+
+#: inc/features/profile/profile.class.php:152
+#: inc/features/profile/profile.class.php:154
+#: inc/features/shortcodes/assigned_tickets.php:100
+#: inc/features/shortcodes/assigned_tickets.php:102
+#: inc/features/tickets/templates/archive-tickets.php:81
+#: inc/features/tickets/templates/archive-tickets.php:83
+msgid "Prev Page"
+msgstr "صفحه قبل"
+
+#: inc/features/profile/profile.class.php:162
+#, php-format
+msgid "%s doesn't submited any comment yet."
+msgstr "%s هنوز دیدگاهی ارسال نکرده است."
+
+#: inc/features/profile/profile.class.php:192
+#, php-format
+msgid "%s doesn't submit any course yet."
+msgstr "%s هنوز دوره‌ای را ثبت نکرده است."
+
+#: inc/features/profile/profile.class.php:216
+msgid "Posts List"
+msgstr "مقالات"
+
+#: inc/features/profile/profile.class.php:221
+msgid "Comments List"
+msgstr "دیدگاه‌ها"
+
+#: inc/features/profile/profile.class.php:226
+msgid "Courses"
+msgstr "دوره‌ها"
+
+#: inc/features/shortcodes/assigned_tickets.php:28
+#: inc/features/tickets/templates/archive-tickets.php:52
+msgid "Filter By Status:"
+msgstr "فیلتر کردن بر اساس:"
+
+#: inc/features/shortcodes/assigned_tickets.php:30
+msgid "All Statuses"
+msgstr "همه وضعیت‌ها"
+
+#: inc/features/shortcodes/assigned_tickets.php:45
+msgid "Sort By:"
+msgstr "مرتب‌سازی بر اساس:"
+
+#: inc/features/shortcodes/assigned_tickets.php:47
+#: inc/features/wallet/charge-cart.class.php:155
+#: inc/features/wallet/partials/carts_list.php:142
+#: inc/features/wallet/partials/carts_list.php:156
+#: inc/features/wallet/partials/export.php:52
+msgid "Creation Date"
+msgstr "تاریخ ایجاد"
+
+#: inc/features/shortcodes/assigned_tickets.php:48
+#: inc/features/tickets/partials/all_tickets.php:114
+#: inc/features/tickets/partials/all_tickets.php:127
+#: inc/features/tickets/partials/dashboard.php:114
+#: inc/features/tickets/partials/dashboard.php:127
+#: inc/features/tickets/partials/search.php:154
+#: inc/features/tickets/partials/search.php:249
+#: inc/features/tickets/partials/search.php:262
+msgid "Modified Date"
+msgstr "تاریخ آخرین تغییر"
+
+#: inc/features/shortcodes/assigned_tickets.php:49
+#: inc/features/shortcodes/wallet_charges.php:161
+#: inc/features/wallet/charge-cart.class.php:149
+#: inc/features/wallet/partials/carts_list.php:136
+#: inc/features/wallet/partials/carts_list.php:150
+#: inc/features/wallet/partials/export.php:20
+#: inc/features/wallet/partials/log_menu.php:119
+#: inc/features/wallet/partials/log_menu.php:129
+msgid "ID"
+msgstr "شناسه"
+
+#: inc/features/shortcodes/assigned_tickets.php:82
+#: inc/features/shortcodes/my_tickets.php:23 woocommerce/single-product.php:290
+#, php-format
+msgid "Last Modified: %s"
+msgstr "آخرین تغییر: %s"
+
+#: inc/features/shortcodes/assigned_tickets.php:83
+#: inc/features/shortcodes/my_tickets.php:24 woocommerce/single-product.php:291
+#, php-format
+msgid "Creation date: %s"
+msgstr "تاریخ ایجاد: %s"
+
+#: inc/features/shortcodes/assigned_tickets.php:109
+msgid "you dont have any assigned ticket yet."
+msgstr "شما تاکنون تیکتی دریافت نکرده‌اید."
+
+#: inc/features/shortcodes/my_tickets.php:31
+msgid "you dont have any ticket yet."
+msgstr "شما تاکنون تیکتی ثبت نکرده‌اید."
+
+#: inc/features/shortcodes/new_ticket.php:16
+#: inc/features/shortcodes/wallet_withdraw.php:77
+#: inc/features/tickets/partials/new_ticket.php:21
+#: inc/features/tickets/partials/view_ticket.php:27
+#: inc/features/tickets/templates/single-ticket.php:33
+msgid "Are you cheating?"
+msgstr "تقلب می‌کنی؟"
+
+#: inc/features/shortcodes/new_ticket.php:19
+msgid "Please insert ticket title."
+msgstr "لطفا عنوان تیکت را وارد کنید."
+
+#: inc/features/shortcodes/new_ticket.php:22
+#: inc/features/tickets/partials/new_ticket.php:39
+#: inc/features/tickets/partials/view_ticket.php:45
+msgid "Please select ticket type"
+msgstr "لطفا نوع تیکت را انتخاب کنید"
+
+#: inc/features/shortcodes/new_ticket.php:25
+#: inc/features/tickets/partials/new_ticket.php:27
+#: inc/features/tickets/partials/view_ticket.php:33
+msgid "Please insert ticket content"
+msgstr "لطفا محتوای تیکت را وارد کنید"
+
+#: inc/features/shortcodes/new_ticket.php:29
+msgid "Please Select your product"
+msgstr "لطفا محصول مورد نظر را انتخاب کنید."
+
+#: inc/features/shortcodes/new_ticket.php:32
+#: inc/woocommerce/woocommerce.class.php:406
+msgid "You did not bought this product."
+msgstr "شما دانشجوی دوره‌ای که انتخاب کرده‌اید نیستید."
+
+#: inc/features/shortcodes/new_ticket.php:46
+#, php-format
+msgid ""
+"Ticket successfull added. <a href=\"%s\" target=\"_blank\"> View Ticket</a>"
+msgstr ""
+"تیکت شما با موفقیت اضافه شد. <a href=\"%s\" target=\"_blank\">مشاهده تیکت</a>"
+
+#: inc/features/shortcodes/new_ticket.php:77
+#: inc/features/tickets/tickets.class.php:651
+msgid "Ticket Title:"
+msgstr "عنوان تیکت:"
+
+#: inc/features/shortcodes/new_ticket.php:81
+msgid "Ticket Type:"
+msgstr "نوع تیکت:"
+
+#: inc/features/shortcodes/new_ticket.php:92
+msgid "Ticket Content:"
+msgstr "محتوای تیکت:"
+
+#: inc/features/shortcodes/new_ticket.php:108
+#: inc/features/tickets/templates/single-ticket.php:136
+msgid "Related Course:"
+msgstr "دوره‌ی مرتبط:"
+
+#: inc/features/shortcodes/new_ticket.php:128
+#: inc/features/tickets/partials/view_ticket.php:320
+#: inc/features/tickets/templates/single-ticket.php:220
+msgid "Send"
+msgstr "ارسال"
+
+#: inc/features/shortcodes/new_ticket.php:132
+msgid "You did not take any course yet so you can not submit a ticket."
+msgstr "شما تا کنون در دوره‌ای شرکت نکرده‌اید بنابراین قادر به ارسال تیکت نیستید."
+
+#: inc/features/shortcodes/new_ticket.php:133
+msgid "Start learning now"
+msgstr "آموزش خود را هم‌اکنون شروع کنید"
+
+#: inc/features/shortcodes/new_ticket.php:140
+#: inc/features/shortcodes/shortcodes.class.php:167
+#: inc/features/tickets/templates/archive-tickets.php:91
+#: woocommerce/single-product.php:305
+#, php-format
+msgid ""
+"You dont have access to this page. Please <a href=\"%s\">Login</a> to grant "
+"access."
+msgstr ""
+"شما به این صفحه دسترسی ندارید. لطفا برای مشاهده این صفحه <a href=\"%s\">وارد "
+"شوید</a>."
+
+#: inc/features/shortcodes/points.php:2
+#: inc/features/tickets/partials/all_tickets.php:111
+#: inc/features/tickets/partials/all_tickets.php:124
+#: inc/features/tickets/partials/dashboard.php:111
+#: inc/features/tickets/partials/dashboard.php:124
+#: inc/features/tickets/partials/search.php:75
+#: inc/features/tickets/partials/search.php:156
+#: inc/features/tickets/partials/search.php:187
+#: inc/features/tickets/partials/search.php:246
+#: inc/features/tickets/partials/search.php:259
+#: inc/features/wallet/charge-cart.class.php:158
+#: inc/features/wallet/partials/export.php:32
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/features/shortcodes/points.php:3 inc/features/wallet/wallet.class.php:93
+msgid "Logs"
+msgstr "تاریخچه"
+
+#: inc/features/shortcodes/points.php:4
+msgid "Earn Points"
+msgstr "کسب امتیاز"
+
+#: inc/features/shortcodes/points.php:5
+msgid "Personal Link"
+msgstr "لینک اختصاصی"
+
+#: inc/features/shortcodes/shortcodes.class.php:56
+#: template-parts/content-single.php:46 woocommerce/myaccount/downloads.php:53
+#: woocommerce/single-product.php:62
+msgid "Download"
+msgstr "دانلود"
+
+#: inc/features/shortcodes/shortcodes.class.php:95
+#: template-parts/content-single.php:55
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: inc/features/shortcodes/shortcodes.class.php:105
+msgid "Anchor"
+msgstr "پیوند"
+
+#: inc/features/shortcodes/shortcodes.class.php:115
+msgid "Download video"
+msgstr "دانلود ویدیو"
+
+#: inc/features/shortcodes/shortcodes.class.php:131
+msgid "Screenshot"
+msgstr "اسکرین‌شات"
+
+#: inc/features/shortcodes/shortcodes.class.php:140
+msgid "Plugin Page"
+msgstr "صفحه افزونه"
+
+#: inc/features/shortcodes/shortcodes.class.php:163
+msgid "Sorry! Only teachers has access to this section."
+msgstr "متاسفیم! فقط مدرس‌ها به این بخش دسترسی دارند."
+
+#: inc/features/shortcodes/wallet_charges.php:8
+msgid "Use Charge Cart"
+msgstr "استفاده از کارت شارژ"
+
+#: inc/features/shortcodes/wallet_charges.php:9
+msgid "Purchase Charge"
+msgstr "خرید شارژ"
+
+#: inc/features/shortcodes/wallet_charges.php:40
+msgid "Payment amount:"
+msgstr "مبلغ پرداختی:"
+
+#: inc/features/shortcodes/wallet_charges.php:44
+msgid "Charge amount:"
+msgstr "مبلغ شارژ شده:"
+
+#: inc/features/shortcodes/wallet_charges.php:51
+msgid "% More Charge"
+msgstr "٪ شارژ بیشتر"
+
+#: inc/features/shortcodes/wallet_charges.php:54
+msgid "Charge Me"
+msgstr "شارژ کن"
+
+#: inc/features/shortcodes/wallet_charges.php:66
+msgid "Please insert charge code"
+msgstr "لطفا کد شارژ را وارد کنید."
+
+#: inc/features/shortcodes/wallet_charges.php:81
+#: inc/features/shortcodes/wallet_charges.php:109
+#: inc/features/wallet/partials/apply_cart.php:21
+#: inc/features/wallet/partials/apply_cart.php:51
+#, php-format
+msgid "Increase account balance with charge card: %s"
+msgstr "افزایش اعتبار کیف پول برای استفاده از کارت شارژ : %s"
+
+#: inc/features/shortcodes/wallet_charges.php:88
+#: inc/features/shortcodes/wallet_charges.php:116
+#, php-format
+msgid "Your account balance increase with %s on charge code no. %s"
+msgstr "موجودی حساب شما به میزان %s با استفاده از کارت شارژ %s افزایش یافت."
+
+#: inc/features/shortcodes/wallet_charges.php:102
+#: inc/features/wallet/partials/apply_cart.php:44
+msgid "The charge code is expired."
+msgstr "کد شارژ وارد شده منقضی شده است."
+
+#: inc/features/shortcodes/wallet_charges.php:129
+#: inc/features/wallet/partials/apply_cart.php:73
+msgid "The charge code used before."
+msgstr "کد شارژ وارد شده قبلا استفاده شده است."
+
+#: inc/features/shortcodes/wallet_charges.php:132
+#: inc/features/wallet/partials/apply_cart.php:76
+msgid "The charge code not authorized."
+msgstr "کارت شارژ وارد شده فعال نشده است."
+
+#: inc/features/shortcodes/wallet_charges.php:137
+#: inc/features/wallet/partials/apply_cart.php:81
+msgid "The charge code was not found"
+msgstr "کد شارژ وارد شده وجود ندارد."
+
+#: inc/features/shortcodes/wallet_charges.php:145
+#: inc/features/shortcodes/wallet_charges.php:162
+#: inc/features/wallet/charge-cart.class.php:150
+#: inc/features/wallet/partials/apply_cart.php:96
+#: inc/features/wallet/partials/carts_list.php:137
+#: inc/features/wallet/partials/carts_list.php:151
+#: inc/features/wallet/partials/export.php:24
+msgid "Code"
+msgstr "کد شارژ"
+
+#: inc/features/shortcodes/wallet_charges.php:147
+#: inc/features/wallet/partials/action_menu.php:118
+#: inc/features/wallet/partials/apply_cart.php:103
+msgid "Apply"
+msgstr "اجرا"
+
+#: inc/features/shortcodes/wallet_charges.php:157
+msgid "Your 5 last used charges"
+msgstr "5 کارت شارژ استفاده شده‌ی آخر شما"
+
+#: inc/features/shortcodes/wallet_charges.php:163
+#: inc/features/shortcodes/wallet_logs.php:53
+#: inc/features/shortcodes/wallet_logs.php:62
+#: inc/features/wallet/charge-cart.class.php:151
+#: inc/features/wallet/partials/action_menu.php:85
+#: inc/features/wallet/partials/carts_list.php:138
+#: inc/features/wallet/partials/carts_list.php:152
+#: inc/features/wallet/partials/export.php:28
+#: inc/features/wallet/partials/generate_cart.php:37
+#: inc/features/wallet/partials/log_menu.php:121
+#: inc/features/wallet/partials/log_menu.php:131
+#: inc/features/wallet/wallet_withdraw.class.php:85
+msgid "Amount"
+msgstr "مبلغ"
+
+#: inc/features/shortcodes/wallet_charges.php:164
+#: inc/features/wallet/charge-cart.class.php:157
+#: inc/features/wallet/partials/carts_list.php:144
+#: inc/features/wallet/partials/carts_list.php:158
+#: inc/features/wallet/partials/export.php:48
+msgid "Used Date"
+msgstr "تاریخ استفاده"
+
+#: inc/features/shortcodes/wallet_logs.php:11
+msgid "Your Wallet Last Transactions"
+msgstr "آخرین تراکنش‌های کیف پول شما"
+
+#: inc/features/shortcodes/wallet_logs.php:24
+#: inc/features/wallet/partials/carts_list.php:56
+#: inc/features/wallet/partials/log_menu.php:93
+msgid "Item"
+msgstr "مورد"
+
+#: inc/features/shortcodes/wallet_logs.php:34
+#: inc/features/tickets/partials/all_tickets.php:85
+#: inc/features/tickets/partials/dashboard.php:85
+#: inc/features/wallet/partials/carts_list.php:66
+#: inc/features/wallet/partials/log_menu.php:103
+msgid "From"
+msgstr "از"
+
+#: inc/features/shortcodes/wallet_logs.php:52
+#: inc/features/shortcodes/wallet_logs.php:61
+#: inc/woocommerce/downloads.class.php:193
+msgid "Row"
+msgstr "ردیف"
+
+#: inc/features/shortcodes/wallet_logs.php:55
+#: inc/features/shortcodes/wallet_logs.php:64
+#: inc/features/tickets/partials/all_tickets.php:113
+#: inc/features/tickets/partials/all_tickets.php:126
+#: inc/features/tickets/partials/dashboard.php:113
+#: inc/features/tickets/partials/dashboard.php:126
+#: inc/features/tickets/partials/search.php:248
+#: inc/features/tickets/partials/search.php:261
+#: inc/features/wallet/partials/log_menu.php:78
+#: inc/features/wallet/partials/log_menu.php:124
+#: inc/features/wallet/partials/log_menu.php:134
+msgid "Date"
+msgstr "تاریخ"
+
+#: inc/features/shortcodes/wallet_logs.php:56
+#: inc/features/shortcodes/wallet_logs.php:65
+msgid "log ID"
+msgstr "شناسه"
+
+#: inc/features/shortcodes/wallet_withdraw.php:20
+#: inc/features/shortcodes/wallet_withdraw.php:229
+msgid "Sheba Number"
+msgstr "شماره شبا"
+
+#: inc/features/shortcodes/wallet_withdraw.php:55
+#: inc/features/wallet/wallet_withdraw.class.php:161
+#: inc/features/wallet/wallet_withdraw.class.php:179
+msgid "Approved"
+msgstr "تایید شده"
+
+#: inc/features/shortcodes/wallet_withdraw.php:57
+#: inc/features/wallet/wallet_withdraw.class.php:162
+#: inc/features/wallet/wallet_withdraw.class.php:180
+msgid "Deposited"
+msgstr "پرداخت شده"
+
+#: inc/features/shortcodes/wallet_withdraw.php:59
+#: inc/features/wallet/wallet_withdraw.class.php:163
+#: inc/features/wallet/wallet_withdraw.class.php:181
+msgid "Rejected"
+msgstr "رد شده"
+
+#: inc/features/shortcodes/wallet_withdraw.php:61
+#: inc/features/wallet/wallet_withdraw.class.php:164
+#: inc/features/wallet/wallet_withdraw.class.php:182
+msgid "Refunded"
+msgstr "برگشت خورده"
+
+#: inc/features/shortcodes/wallet_withdraw.php:64
+msgid "Pending"
+msgstr "در حال بررسی"
+
+#: inc/features/shortcodes/wallet_withdraw.php:91
+msgid "Withdraw amount required "
+msgstr "لطفا مبلغ درخواستی را وارد کنید."
+
+#: inc/features/shortcodes/wallet_withdraw.php:93
+msgid "You don't have enough balance for this request"
+msgstr "موجودی شما برای ثبت این درخواست کافی نیست."
+
+#: inc/features/shortcodes/wallet_withdraw.php:95
+#, php-format
+msgid "Withdraw amount must be greater than %d"
+msgstr "مبلغ درخواستی باید از %d بیشتر باشد."
+
+#: inc/features/shortcodes/wallet_withdraw.php:100
+msgid "Please insert your cart number"
+msgstr "لطفا شماره کارت خود را وارد کنید."
+
+#: inc/features/shortcodes/wallet_withdraw.php:105
+msgid "Please insert your cart owner name"
+msgstr "لطفا نام صاحب حساب را وارد کنید."
+
+#: inc/features/shortcodes/wallet_withdraw.php:111
+#, php-format
+msgid "For requests that is greater than %s, you should insert sheba number"
+msgstr "برای مبالغ بیشتر از %s وارد کردن شماره شبا الزامی است."
+
+#: inc/features/shortcodes/wallet_withdraw.php:121
+#, php-format
+msgid "%s (User ID: %s)"
+msgstr "%s (شناسه: %s)"
+
+#: inc/features/shortcodes/wallet_withdraw.php:129
+#: inc/features/wallet/wallet_withdraw.class.php:226
+msgid "Something goes wrong! please try again."
+msgstr "خطایی رخ داد! لطفا دوباره تلاش کنید."
+
+#: inc/features/shortcodes/wallet_withdraw.php:152
+#, php-format
+msgid "Decreasing balance for submitting withdraw no. %s"
+msgstr "کاهش موجودی برای ثبت درخواست وجه شماره %s"
+
+#: inc/features/shortcodes/wallet_withdraw.php:156
+#, php-format
+msgid "Withdraw no. %s successfully added."
+msgstr "درخواست وجه شما به شماره‌ی %s با موفقیت ثبت شد."
+
+#: inc/features/shortcodes/wallet_withdraw.php:180
+msgid "Wallet cashe balance"
+msgstr "موجودی نقدی کیف پول"
+
+#: inc/features/shortcodes/wallet_withdraw.php:184
+msgid "Teaching balance"
+msgstr "حق التدریس"
+
+#: inc/features/shortcodes/wallet_withdraw.php:185
+#: inc/features/wallet/partials/action_menu.php:104
+#: inc/features/wallet/wallet.class.php:260
+#: woocommerce/myaccount/my-account.php:56
+msgid "Affiliate Balance"
+msgstr "اعتبار همکاری در فروش"
+
+#: inc/features/shortcodes/wallet_withdraw.php:186
+msgid "Total Balance"
+msgstr "موجودی کل"
+
+#: inc/features/shortcodes/wallet_withdraw.php:200
+msgid "Attention!"
+msgstr "توجه!"
+
+#: inc/features/shortcodes/wallet_withdraw.php:201
+msgid "You should insert sheba number for any amount of withdraw"
+msgstr "وارد کردن شماره‌ی شبا الزامی است."
+
+#: inc/features/shortcodes/wallet_withdraw.php:202
+msgid "Get Sheba Number"
+msgstr "دریافت شماره‌ی شبا"
+
+#: inc/features/shortcodes/wallet_withdraw.php:207
+msgid "Withdraw Amount"
+msgstr "مبلغ درخواستی"
+
+#: inc/features/shortcodes/wallet_withdraw.php:215
+msgid "Cart Number"
+msgstr "شماره کارت"
+
+#: inc/features/shortcodes/wallet_withdraw.php:217
+msgid "16 Digit Cart Number"
+msgstr "شماره‌ی 16 رقمی کارت"
+
+#: inc/features/shortcodes/wallet_withdraw.php:222
+msgid "Cart Owner Name"
+msgstr "نام صاحب حساب"
+
+#: inc/features/shortcodes/wallet_withdraw.php:236
+msgid "Submit Request"
+msgstr "ثبت درخواست"
+
+#: inc/features/slider/menu.php:2 inc/features/slider/slider.class.php:19
+#: inc/options/options.class.php:78
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/features/slider/menu_html.php:8
+msgid "URL"
+msgstr "آدرس"
+
+#: inc/features/slider/menu_html.php:9
+msgid "Image"
+msgstr "تصویر"
+
+#: inc/features/slider/menu_html.php:10
+#: inc/features/tickets/partials/search.php:81
+#: inc/features/tickets/partials/search.php:193
+#: inc/features/tickets/partials/ticket_types.php:14
+#: inc/features/wallet/wallet.class.php:84
+#: inc/features/wallet/wallet.class.php:85
+#: inc/features/wallet/wallet_withdraw.class.php:89
+msgid "Action"
+msgstr "عملیات"
+
+#: inc/features/slider/menu_html.php:20 inc/features/slider/menu_html.php:39
+#: inc/features/slider/menu_html.php:60
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: inc/features/star-rating/star-rating.class.php:53
+msgid "Please choose your rate"
+msgstr "لطفا امتیاز خود را انتخاب کنید"
+
+#: inc/features/star-rating/star-rating.class.php:84
+msgid "Please login first to submit your rate"
+msgstr "لطفا برای ثبت رای ابتدا وارد شوید"
+
+#: inc/features/star-rating/star-rating.class.php:133
+#, php-format
+msgid "%s From %s vote"
+msgstr "%s از %s رای"
+
+#: inc/features/tickets/partials/all_tickets.php:3
+#: inc/features/tickets/partials/dashboard.php:3
+#: inc/features/tickets/tickets.class.php:93
+#: inc/features/tickets/tickets.class.php:94
+msgid "Tickets"
+msgstr "تیکت‌ها"
+
+#: inc/features/tickets/partials/all_tickets.php:4
+#: inc/features/tickets/partials/dashboard.php:4
+#: inc/features/tickets/partials/view_ticket.php:81
+#: inc/features/wallet/wallet_withdraw.class.php:38
+msgid "Add New"
+msgstr "افزودن"
+
+#: inc/features/tickets/partials/all_tickets.php:73
+#: inc/features/tickets/partials/dashboard.php:73
+#, php-format
+msgid "%s Item"
+msgstr "%s مورد"
+
+#: inc/features/tickets/partials/all_tickets.php:108
+#: inc/features/tickets/partials/all_tickets.php:121
+#: inc/features/tickets/partials/dashboard.php:108
+#: inc/features/tickets/partials/dashboard.php:121
+#: inc/features/tickets/partials/search.php:71
+#: inc/features/tickets/partials/search.php:159
+#: inc/features/tickets/partials/search.php:183
+#: inc/features/tickets/partials/search.php:243
+#: inc/features/tickets/partials/search.php:256
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/features/tickets/partials/all_tickets.php:109
+#: inc/features/tickets/partials/all_tickets.php:122
+#: inc/features/tickets/partials/dashboard.php:109
+#: inc/features/tickets/partials/dashboard.php:122
+#: inc/features/tickets/partials/search.php:158
+#: inc/features/tickets/partials/search.php:244
+#: inc/features/tickets/partials/search.php:257
+msgid "Assignee"
+msgstr "مسئول"
+
+#: inc/features/tickets/partials/all_tickets.php:110
+#: inc/features/tickets/partials/all_tickets.php:123
+#: inc/features/tickets/partials/dashboard.php:110
+#: inc/features/tickets/partials/dashboard.php:123
+#: inc/features/tickets/partials/search.php:74
+#: inc/features/tickets/partials/search.php:157
+#: inc/features/tickets/partials/search.php:186
+#: inc/features/tickets/partials/search.php:245
+#: inc/features/tickets/partials/search.php:258 woocommerce/cart/cart.php:35
+#: woocommerce/cart/cart.php:66
+msgid "Product"
+msgstr "محصول"
+
+#: inc/features/tickets/partials/all_tickets.php:112
+#: inc/features/tickets/partials/all_tickets.php:125
+#: inc/features/tickets/partials/dashboard.php:112
+#: inc/features/tickets/partials/dashboard.php:125
+#: inc/features/tickets/partials/search.php:76
+#: inc/features/tickets/partials/search.php:155
+#: inc/features/tickets/partials/search.php:188
+#: inc/features/tickets/partials/search.php:247
+#: inc/features/tickets/partials/search.php:260
+msgid "Type"
+msgstr "نوع"
+
+#: inc/features/tickets/partials/all_tickets.php:187
+#: inc/features/tickets/partials/dashboard.php:187
+msgid "Published at"
+msgstr "منتشر شده"
+
+#: inc/features/tickets/partials/new_ticket.php:24
+#: inc/features/tickets/partials/view_ticket.php:30
+msgid "Please insert ticket title"
+msgstr "لطفا عنوان تیکت را وارد کنید"
+
+#: inc/features/tickets/partials/new_ticket.php:30
+#: inc/features/tickets/partials/view_ticket.php:36
+msgid "Please select ticket author"
+msgstr "لطفا نویسنده‌ تیکت انتخاب کنید"
+
+#: inc/features/tickets/partials/new_ticket.php:33
+#: inc/features/tickets/partials/view_ticket.php:39
+msgid "Please select ticket assignee"
+msgstr "لطفا مسئول تیکت را انتخاب کنید"
+
+#: inc/features/tickets/partials/new_ticket.php:36
+#: inc/features/tickets/partials/view_ticket.php:42
+msgid "Please select ticket status"
+msgstr "لطفا وضعیت تیکت را انتخاب کنید"
+
+#: inc/features/tickets/partials/new_ticket.php:69
+#: inc/features/tickets/tickets.class.php:119
+#: inc/features/tickets/tickets.class.php:120
+msgid "Add New Ticket"
+msgstr "ثبت تیکت جدید"
+
+#: inc/features/tickets/partials/new_ticket.php:85
+#: inc/features/tickets/partials/view_ticket.php:291
+msgid "User pre answers"
+msgstr "استفاده از پاسخ‌های پیش‌فرض"
+
+#: inc/features/tickets/partials/new_ticket.php:125
+#: inc/features/tickets/partials/new_ticket.php:185
+#: inc/features/tickets/partials/view_ticket.php:126
+msgid "Publish"
+msgstr "انتشار"
+
+#: inc/features/tickets/partials/new_ticket.php:132
+#: inc/features/tickets/partials/search.php:88
+#: inc/features/tickets/partials/view_ticket.php:133
+msgid "Author:"
+msgstr "نویسنده:"
+
+#: inc/features/tickets/partials/new_ticket.php:140
+#: inc/features/tickets/partials/view_ticket.php:141
+msgid "Assignee:"
+msgstr "مسئول:"
+
+#: inc/features/tickets/partials/new_ticket.php:142
+#: inc/features/tickets/partials/search.php:98
+#: inc/features/tickets/partials/search.php:110
+#: inc/features/tickets/partials/ticket_other.php:21
+#: inc/features/tickets/partials/view_ticket.php:143
+msgid "Myself"
+msgstr "خودم"
+
+#: inc/features/tickets/partials/new_ticket.php:152
+#: inc/features/tickets/partials/view_ticket.php:158
+msgid "Status:"
+msgstr "وضعیت:"
+
+#: inc/features/tickets/partials/new_ticket.php:163
+#: inc/features/tickets/partials/view_ticket.php:169
+#: inc/features/wallet/partials/export.php:5
+msgid "Type:"
+msgstr "نوع:"
+
+#: inc/features/tickets/partials/new_ticket.php:174
+#: inc/features/tickets/partials/view_ticket.php:180
+msgid "Course:"
+msgstr "دوره:"
+
+#: inc/features/tickets/partials/pages_fields.php:23
+msgid "Submit page"
+msgstr "صفحه ارسال"
+
+#: inc/features/tickets/partials/pages_fields.php:29
+msgid "Tickets list page"
+msgstr "صفحه لیست تیکت‌ها"
+
+#: inc/features/tickets/partials/search.php:64
+msgid "Filter Tickets"
+msgstr "فیلتر کردن تیکت‌ها:"
+
+#: inc/features/tickets/partials/search.php:70
+#: inc/features/tickets/partials/search.php:182
+msgid "Ticket title"
+msgstr "عنوان تیکت"
+
+#: inc/features/tickets/partials/search.php:72
+#: inc/features/tickets/partials/search.php:184
+msgid "Include Assignee"
+msgstr "شامل مسئول"
+
+#: inc/features/tickets/partials/search.php:73
+#: inc/features/tickets/partials/search.php:185
+msgid "Exclude Assignee"
+msgstr "مستثنی کردن مسئول"
+
+#: inc/features/tickets/partials/search.php:77
+#: inc/features/tickets/partials/search.php:189
+msgid "Orderby"
+msgstr "مرتب‌سازی بر اساس"
+
+#: inc/features/tickets/partials/search.php:78
+#: inc/features/tickets/partials/search.php:190
+msgid "Order"
+msgstr "چیدمان"
+
+#: inc/features/tickets/partials/search.php:79
+#: inc/features/tickets/partials/search.php:153
+#: inc/features/tickets/partials/search.php:191
+msgid "Submit Date"
+msgstr "تاریخ ارسال"
+
+#: inc/features/tickets/partials/search.php:80
+#: inc/features/tickets/partials/search.php:192
+msgid "Modifies Date"
+msgstr "تاریخ تغییر"
+
+#: inc/features/tickets/partials/search.php:97
+#: inc/features/tickets/partials/search.php:109
+#: inc/features/tickets/partials/search.php:131
+#: inc/features/tickets/partials/search.php:142
+msgid "Please Select"
+msgstr "لطفا انتخاب کنید"
+
+#: inc/features/tickets/partials/search.php:164
+msgid "DESC"
+msgstr "نزولی"
+
+#: inc/features/tickets/partials/search.php:165
+msgid "ASC"
+msgstr "صعودی"
+
+#: inc/features/tickets/partials/search.php:320
+msgid "Published at:"
+msgstr "منتشر شده در:"
+
+#: inc/features/tickets/partials/settings.php:9
+#: inc/features/wallet/partials/main_menu.php:5 inc/options/settings.php:5
+msgid "General"
+msgstr "همگانی\t"
+
+#: inc/features/tickets/partials/settings.php:10
+#: inc/features/wallet/partials/main_menu.php:6
+msgid "Emails"
+msgstr "ایمیل‌ها"
+
+#: inc/features/tickets/partials/student_new_reply.php:17
+#: inc/features/tickets/partials/student_new_ticket.php:17
+#: inc/features/tickets/partials/teacher_new_reply.php:17
+#: inc/features/tickets/partials/teacher_new_ticket.php:17
+msgid "Email Content:"
+msgstr "محتوای ایمیل:"
+
+#: inc/features/tickets/partials/student_new_reply.php:32
+#: inc/features/tickets/partials/student_new_ticket.php:32
+#: inc/features/tickets/partials/teacher_new_reply.php:32
+#: inc/features/tickets/partials/teacher_new_ticket.php:32
+msgid "SMS Content:"
+msgstr "محتوای پیامک:"
+
+#: inc/features/tickets/partials/ticket_other.php:17
+msgid "Default assignee"
+msgstr "مسئول پیش‌فرض"
+
+#: inc/features/tickets/partials/ticket_other.php:20
+msgid "Without assignee"
+msgstr "بدون مسئول"
+
+#: inc/features/tickets/partials/ticket_other.php:32
+msgid "Default status"
+msgstr "وضعیت پیش‌فرض"
+
+#: inc/features/tickets/partials/ticket_statuses.php:8
+#: inc/features/tickets/tickets.class.php:225
+#: inc/features/tickets/tickets.functions.class.php:366
+msgid "Open"
+msgstr "باز"
+
+#: inc/features/tickets/partials/ticket_statuses.php:12
+#: inc/features/tickets/tickets.class.php:229
+#: inc/features/tickets/tickets.functions.class.php:370
+msgid "Closed"
+msgstr "بسته"
+
+#: inc/features/tickets/partials/ticket_statuses.php:21
+#: inc/features/tickets/partials/ticket_statuses.php:30
+#: inc/features/tickets/partials/ticket_statuses.php:52
+msgid "Status slug"
+msgstr "نامک وضعیت"
+
+#: inc/features/tickets/partials/ticket_statuses.php:22
+#: inc/features/tickets/partials/ticket_statuses.php:31
+#: inc/features/tickets/partials/ticket_statuses.php:53
+msgid "Status name"
+msgstr "نام وضعیت"
+
+#: inc/features/tickets/partials/ticket_statuses.php:23
+#: inc/features/tickets/partials/ticket_statuses.php:32
+#: inc/features/tickets/partials/ticket_statuses.php:54
+msgid "Status color"
+msgstr "رنگ وضعیت"
+
+#: inc/features/tickets/partials/ticket_statuses.php:24
+msgid "Status action"
+msgstr "عملیات"
+
+#: inc/features/tickets/partials/ticket_statuses.php:34
+#: inc/features/tickets/partials/ticket_statuses.php:56
+#: inc/features/tickets/partials/ticket_types.php:24
+#: inc/features/tickets/partials/ticket_types.php:36
+#: inc/features/tickets/partials/ticket_types.php:55
+#: inc/features/wallet/partials/generate_cart.php:67
+#: inc/woocommerce/downloads.class.php:251
+msgid "Add"
+msgstr "افزودن"
+
+#: inc/features/tickets/partials/ticket_statuses.php:36
+#: inc/features/tickets/partials/ticket_statuses.php:57
+#: inc/features/tickets/partials/ticket_types.php:26
+#: inc/features/tickets/partials/ticket_types.php:56
+#: inc/features/tickets/partials/view_ticket.php:276
+#: inc/features/tickets/tickets.class.php:407
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/features/tickets/partials/ticket_types.php:12
+#: inc/features/tickets/partials/ticket_types.php:21
+#: inc/features/tickets/partials/ticket_types.php:33
+#: inc/features/tickets/partials/ticket_types.php:52
+msgid "Type slug"
+msgstr "نامک نوع"
+
+#: inc/features/tickets/partials/ticket_types.php:13
+#: inc/features/tickets/partials/ticket_types.php:22
+#: inc/features/tickets/partials/ticket_types.php:34
+#: inc/features/tickets/partials/ticket_types.php:53
+msgid "Type name"
+msgstr "نام نوع"
+
+#: inc/features/tickets/partials/view_ticket.php:58
+msgid "Ticket Updated"
+msgstr "تیکت به روز رسانی شد."
+
+#: inc/features/tickets/partials/view_ticket.php:58
+msgid "View Ticket"
+msgstr "مشاهده تیکت"
+
+#: inc/features/tickets/partials/view_ticket.php:80
+msgid "Edit Ticket"
+msgstr "ویرایش تیکت"
+
+#: inc/features/tickets/partials/view_ticket.php:95
+msgid "Permalik:"
+msgstr "پیوند یکتا:"
+
+#: inc/features/tickets/partials/view_ticket.php:146
+#: inc/features/tickets/templates/single-ticket.php:160
+msgid "Course Teacher"
+msgstr "مدرس دوره"
+
+#: inc/features/tickets/partials/view_ticket.php:191
+msgid "Author is an student of the course"
+msgstr "نویسنده دانشجوی دوره است"
+
+#: inc/features/tickets/partials/view_ticket.php:193
+msgid "Author is not student of the course"
+msgstr "نویسنده دانشجوی دوره نیست"
+
+#: inc/features/tickets/partials/view_ticket.php:196
+msgid "Author is teacher of the product"
+msgstr "نویسنده مدرس دوره است"
+
+#: inc/features/tickets/partials/view_ticket.php:206
+msgid "Delete Permanently"
+msgstr "حذف برای همیشه"
+
+#: inc/features/tickets/partials/view_ticket.php:210
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: inc/features/tickets/partials/view_ticket.php:220
+msgid "Shortcuts"
+msgstr "میان‌برها"
+
+#: inc/features/tickets/partials/view_ticket.php:227
+msgid "Edit Course"
+msgstr "ویرایش دوره"
+
+#: inc/features/tickets/partials/view_ticket.php:228
+msgid "View all Course's tickets"
+msgstr "مشاهده همه تیک‌های این دوره"
+
+#: inc/features/tickets/partials/view_ticket.php:233
+msgid "View Teacher Page"
+msgstr "مشاهده صفحه مدرس"
+
+#: inc/features/tickets/partials/view_ticket.php:234
+msgid "View Teacher's Tickets"
+msgstr "مشاهده تیکت‌های مدرس"
+
+#: inc/features/tickets/partials/view_ticket.php:238
+msgid "View Ticket Author Page"
+msgstr "مشاهده صفحه نویسنده تیکت"
+
+#: inc/features/tickets/partials/view_ticket.php:241
+msgid "View all author's tickets"
+msgstr "مشاهده همه تیکت‌های نویسنده"
+
+#: inc/features/tickets/partials/view_ticket.php:253
+msgid "Ticket's Replies"
+msgstr "پاسخ‌های تیکت"
+
+#: inc/features/tickets/partials/view_ticket.php:303
+msgid "Reply Text:"
+msgstr "متن پاسخ:"
+
+#: inc/features/tickets/partials/view_ticket.php:317
+msgid "Please insert reply text"
+msgstr "لطفا متن پاسخ تیکت را وارد کنید."
+
+#: inc/features/tickets/templates/archive-tickets.php:44
+msgid "Tickets List"
+msgstr "لیست تیکت‌ها"
+
+#: inc/features/tickets/templates/archive-tickets.php:45
+msgid "Submit New Ticket"
+msgstr "ارسال تیکت جدید"
+
+#: inc/features/tickets/templates/archive-tickets.php:55
+#: inc/features/tickets/tickets.class.php:111
+#: inc/features/tickets/tickets.class.php:112
+msgid "All Tickets"
+msgstr "همه تیکت‌ها"
+
+#: inc/features/tickets/templates/single-ticket.php:36
+msgid "Please insert reply content."
+msgstr "لطفا متن پاسخ را وارد کنید."
+
+#: inc/features/tickets/templates/single-ticket.php:56
+msgid "Access denied!"
+msgstr "دسترسی غیرمجاز!"
+
+#: inc/features/tickets/templates/single-ticket.php:59
+msgid "Return to tickets list"
+msgstr "بازگشت به تیکت‌ها"
+
+#: inc/features/tickets/templates/single-ticket.php:71
+msgid "Reply successfully added."
+msgstr "پاسخ با موفقیت اضافه شد."
+
+#: inc/features/tickets/templates/single-ticket.php:82
+#: inc/features/tickets/tickets.class.php:412
+msgid "Something goes wrong! Please try again"
+msgstr "خطایی رخ داد! لطفا دوباره تلاش کنید"
+
+#: inc/features/tickets/templates/single-ticket.php:91
+msgid "Ticket closed successfully"
+msgstr "تیکت با موفقیت بسته شد."
+
+#: inc/features/tickets/templates/single-ticket.php:122
+msgid "Creation Date:"
+msgstr "تاریخ ارسال:"
+
+#: inc/features/tickets/templates/single-ticket.php:128
+msgid "Before"
+msgstr "قبل"
+
+#: inc/features/tickets/templates/single-ticket.php:162
+msgid "Site Administrator"
+msgstr "مدیر سایت"
+
+#: inc/features/tickets/templates/single-ticket.php:170
+msgid "Submitted Date:"
+msgstr "تاریخ ارسال:"
+
+#: inc/features/tickets/templates/single-ticket.php:213
+msgid "Close Ticket"
+msgstr "بستن تیکت"
+
+#: inc/features/tickets/templates/single-ticket.php:228
+#, php-format
+msgid ""
+"You dont have access to this ticket. Go back to your <a href=\"%s\">Tickets "
+"list</a>."
+msgstr "شما به این تیکت دسترسی ندارید. <a href=\"%s\">بازگشت به لیست تیکت‌ها</a>"
+
+#: inc/features/tickets/tickets.class.php:66
+msgid "Tickets Settings"
+msgstr "تنظیمات تیکت‌ها"
+
+#: inc/features/tickets/tickets.class.php:71
+msgid "Ticket Agent?"
+msgstr "مسئول تیکت؟"
+
+#: inc/features/tickets/tickets.class.php:77
+msgid "Can set as tickets assignaee?"
+msgstr "می‌توان این کاربر را به عنوان مسئول تیکت قرار داد؟"
+
+#: inc/features/tickets/tickets.class.php:135
+#: inc/features/tickets/tickets.class.php:136
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/features/tickets/tickets.class.php:188
+msgid "Ticket successfully deleted"
+msgstr "تیکت با موفقیت حذف شد."
+
+#: inc/features/tickets/tickets.class.php:192
+msgid "Somethings goes wrong. please try  again!"
+msgstr "خطایی رخ داد. لطفا دوباره سعی کنید!"
+
+#: inc/features/tickets/tickets.class.php:294
+msgid "Ticket Pages:"
+msgstr "صفحات تیکت:"
+
+#: inc/features/tickets/tickets.class.php:301
+msgid "Ticket Statuses:"
+msgstr "وضعیت های تیکت:"
+
+#: inc/features/tickets/tickets.class.php:308
+msgid "Ticket types:"
+msgstr "انواع تیکت:"
+
+#: inc/features/tickets/tickets.class.php:315
+msgid "Other settings:"
+msgstr "سایر تنظیمات:"
+
+#: inc/features/tickets/tickets.class.php:324
+msgid "New ticket opened (Send to Student):"
+msgstr "باز شدن تیکت جدید (ارسال به دانشجو):"
+
+#: inc/features/tickets/tickets.class.php:331
+msgid "New ticket opened (Send to Teacher):"
+msgstr "باز شدن تیکت جدید (ارسال به مدرس):"
+
+#: inc/features/tickets/tickets.class.php:338
+msgid "New reply from ticket author (send to teacher):"
+msgstr "پاسخ جدید از نویسنده تیکت (ارسال به مدرس):"
+
+#: inc/features/tickets/tickets.class.php:345
+msgid "New reply from teacher (send to student):"
+msgstr "پاسخ جدید از مدرس (ارسال به دانشجو):"
+
+#: inc/features/tickets/tickets.class.php:526
+msgid "New Ticket in HamyarWP"
+msgstr "تیکت جدید در همیار وردپرس"
+
+#: inc/features/tickets/tickets.class.php:625
+#: inc/features/tickets/tickets.class.php:627
+msgid "New Ticket reply in HamyarWP"
+msgstr "پاسخ جدید برای تیکت شما در همیار وردپرس"
+
+#: inc/features/tickets/tickets.class.php:647
+msgid "Student Name:"
+msgstr "نام دانشجو:"
+
+#: inc/features/tickets/tickets.class.php:648
+msgid "Course Title:"
+msgstr "عنوان دوره:"
+
+#: inc/features/tickets/tickets.class.php:649
+msgid "Teacher Name:"
+msgstr "نام مدرس:"
+
+#: inc/features/tickets/tickets.class.php:650
+msgid "Ticket URL:"
+msgstr "آدرس تیکت:"
+
+#: inc/features/tickets/tickets.functions.class.php:101
+msgid " Changed To "
+msgstr "تغییر کرد به "
+
+#: inc/features/tickets/tickets.functions.class.php:185
+msgid "Ticket wasn't found"
+msgstr "تیکت یافت نشد"
+
+#: inc/features/tickets/tickets.functions.class.php:238
+#, php-format
+msgid "New reply added (#%s)"
+msgstr "پاسخ جدید اضافه شد (#%s)"
+
+#: inc/features/tickets/tickets.functions.class.php:263
+#, php-format
+msgid "Reply Deleted (#%s)"
+msgstr "پاسخ حذف شد (#%s)"
+
+#: inc/features/tickets/tickets.functions.class.php:445
+#: inc/features/wallet/partials/log_menu.php:158
+msgid "Unknown"
+msgstr "نامعلوم"
+
+#: inc/features/wallet/actions.class.php:52
+#, php-format
+msgid "increasing wallet credit for purchasing charge %s on order no. %s"
+msgstr "افزایش اعتبار کیف پول برای خرید %s طی سفارش شماره %s"
+
+#: inc/features/wallet/actions.class.php:69
+#, php-format
+msgid "increasing wallet credit for purchasing %s on order no. %s"
+msgstr "هدیه‌ی شرکت در دوره‌ی آنلاین %s طی سفارش شماره‌ی %s "
+
+#: inc/features/wallet/actions.class.php:102
+#, php-format
+msgid "Taking one of the site users in your %s course on order no. %s"
+msgstr "شرکت یکی از کاربران سایت در دوره‌ی آنلاین (%s) شما طی سفارش شماره‌ی %s"
+
+#: inc/features/wallet/actions.class.php:125
+#, php-format
+msgid "Affiliate payment for referral no. %s"
+msgstr "پرداخت همکاری در فروش شماره‌ی %s"
+
+#: inc/features/wallet/actions.class.php:149
+#, php-format
+msgid "Decrease %s wallet gift balance for expiring."
+msgstr "کاهش موجودی هدیه کیف پول به میزان %s به علت منقضی شدن"
+
+#: inc/features/wallet/charge-cart.class.php:57
+msgid "Wallet Charge Cart"
+msgstr "کارت‌های شارژ کیف پول"
+
+#: inc/features/wallet/charge-cart.class.php:58
+#: inc/features/wallet/partials/charge_menu.php:2
+msgid "Charge Cart"
+msgstr "کارت شارژ"
+
+#: inc/features/wallet/charge-cart.class.php:154
+#: inc/features/wallet/partials/action_menu.php:79
+#: inc/features/wallet/partials/apply_cart.php:90
+#: inc/features/wallet/partials/carts_list.php:141
+#: inc/features/wallet/partials/carts_list.php:155
+#: inc/features/wallet/partials/export.php:44
+#: inc/features/wallet/partials/log_menu.php:72
+#: inc/features/wallet/partials/log_menu.php:120
+#: inc/features/wallet/partials/log_menu.php:130
+msgid "User ID"
+msgstr "شناسه‌ی کاربری"
+
+#: inc/features/wallet/charge-cart.class.php:156
+#: inc/features/wallet/partials/carts_list.php:143
+#: inc/features/wallet/partials/carts_list.php:157
+#: inc/features/wallet/partials/export.php:56
+msgid "Expiration Date"
+msgstr "تاریخ انقضا"
+
+#: inc/features/wallet/charge-cart.class.php:230
+#: inc/features/wallet/charge-cart.class.php:239
+#: inc/features/wallet/partials/carts_list.php:126
+msgid "Make unauthorized"
+msgstr "غیرفعال کردن"
+
+#: inc/features/wallet/charge-cart.class.php:231
+msgid "Cart charge activated"
+msgstr "کارت شارژ فعال شد."
+
+#: inc/features/wallet/charge-cart.class.php:240
+msgid "Cart charge Deactivated"
+msgstr "کارت شارژ غیرفعال شد."
+
+#: inc/features/wallet/charge-cart.class.php:245
+msgid "Action is not valid."
+msgstr "عملیات غیرمجاز است."
+
+#: inc/features/wallet/charge-cart.class.php:248
+msgid "Cart charge does not exist."
+msgstr "کارت شارژ وجود ندارد."
+
+#: inc/features/wallet/charge-cart.class.php:250
+msgid "Something goes wrong!"
+msgstr "خطایی رخ داد!"
+
+#: inc/features/wallet/charge-product-type.class.php:22
+msgid "Charge"
+msgstr "شارژ"
+
+#: inc/features/wallet/functions.class.php:55
+msgid "Charge Card"
+msgstr "کارت شارژ"
+
+#: inc/features/wallet/functions.class.php:56
+#: inc/features/wallet/wallet_withdraw.class.php:31
+#: inc/features/wallet/wallet_withdraw.class.php:33
+#: inc/features/wallet/wallet_withdraw.class.php:57
+msgid "Withdraw"
+msgstr "درخواست وجه"
+
+#: inc/features/wallet/functions.class.php:57
+msgid "Charge Product"
+msgstr "خرید شارژ"
+
+#: inc/features/wallet/functions.class.php:58
+msgid "Taking Course Gift"
+msgstr "هدیه شرکت در دوره"
+
+#: inc/features/wallet/functions.class.php:59
+msgid "Selling Course"
+msgstr "فروش دوره"
+
+#: inc/features/wallet/functions.class.php:60
+msgid "Affiliate"
+msgstr "همکاری در فروش"
+
+#: inc/features/wallet/functions.class.php:61
+msgid "Using Wallet Gateway"
+msgstr "استفاده از درگاه کیف پول"
+
+#: inc/features/wallet/functions.class.php:62
+msgid "Refunding withdraw"
+msgstr "بازگشت درخواست وجه"
+
+#: inc/features/wallet/functions.class.php:63
+msgid "Gift Expired"
+msgstr "منقضی شدن هدیه"
+
+#: inc/features/wallet/functions.class.php:64
+msgid "Custom"
+msgstr "دستی"
+
+#: inc/features/wallet/gateway.php:9 inc/features/wallet/gateway.php:47
+#: inc/features/wallet/wallet.class.php:66
+#: inc/features/wallet/wallet.class.php:67
+msgid "Wallet"
+msgstr "کیف پول"
+
+#: inc/features/wallet/gateway.php:10
+msgid "Wallet gateway configuration"
+msgstr "تنظیمات درگاه پرداخت کیف پول"
+
+#: inc/features/wallet/gateway.php:31
+msgid "Basic Settings"
+msgstr "تنظیمات پایه"
+
+#: inc/features/wallet/gateway.php:38
+msgid "Activate gateway"
+msgstr "فعال‌سازی درگاه"
+
+#: inc/features/wallet/gateway.php:39
+msgid "For activating wallet gateway, check this box"
+msgstr "برای فعال کردن درگاه این جا را تیک بزنید"
+
+#: inc/features/wallet/gateway.php:44
+msgid "Gateway title"
+msgstr "عنوان درگاه"
+
+#: inc/features/wallet/gateway.php:46 inc/features/wallet/gateway.php:54
+msgid "The title that customers sees in checkout page"
+msgstr "عنوانی که کاربر در صفحه پرداخت مشاهده می‌کند."
+
+#: inc/features/wallet/gateway.php:51
+msgid "Gateway Description"
+msgstr "توضیحات درگاه"
+
+#: inc/features/wallet/gateway.php:55
+msgid "Decrease your wallet balance to pay this order"
+msgstr "توضیحاتی که کاربر در صفحه پرداخت مشاهده می‌کند."
+
+#: inc/features/wallet/gateway.php:58
+msgid "Payment process configs"
+msgstr "تنظیمات پرداخت"
+
+#: inc/features/wallet/gateway.php:63
+msgid "Low wallet balance message"
+msgstr "پیام کم بودن موجودی کیف پول"
+
+#: inc/features/wallet/gateway.php:65
+msgid ""
+"Your wallet balance is not enough to pay this order.. please charge yout "
+"account balance and try again."
+msgstr ""
+"موجودی کیف پول شما برای پرداخت این سفارش کافی نیست. لطفا موجودی خود را افزایش "
+"دهید."
+
+#: inc/features/wallet/gateway.php:68
+msgid "Illegal payment message"
+msgstr "پیغام محصول غیر مجاز"
+
+#: inc/features/wallet/gateway.php:70
+msgid "You have an illegal product in your cart."
+msgstr "در سبد خرید شما محصولی که قابل خرید با کیف پول نیست وجود دارد."
+
+#: inc/features/wallet/gateway.php:126
+#, php-format
+msgid "Pay off order no. %s with wallet gateway"
+msgstr "پرداخت سفارش شماره‌ی %s از طریق درگاه کیف پول"
+
+#: inc/features/wallet/partials/action_menu.php:2
+msgid "Wallet Action"
+msgstr "عملیات کیف پول"
+
+#: inc/features/wallet/partials/action_menu.php:27
+#: inc/features/wallet/partials/action_menu.php:44
+msgid " By "
+msgstr " توسط "
+
+#: inc/features/wallet/partials/action_menu.php:29
+#: inc/features/wallet/partials/action_menu.php:46
+#: inc/features/wallet/partials/action_menu.php:94
+#: inc/features/wallet/partials/log_menu.php:75
+msgid "Increase"
+msgstr "افزایش"
+
+#: inc/features/wallet/partials/action_menu.php:29
+#: inc/features/wallet/partials/action_menu.php:46
+#: inc/features/wallet/partials/action_menu.php:96
+#: inc/features/wallet/partials/log_menu.php:76
+msgid "Decrease"
+msgstr "کاهش"
+
+#: inc/features/wallet/partials/action_menu.php:32
+#: inc/features/wallet/partials/action_menu.php:49
+#, php-format
+msgid ""
+"Account balance of %s with <strong>%s</strong> by  <strong>%s</strong> has "
+"been %s"
+msgstr ""
+"موجودی کیف پول %s به میزان <strong>%s</strong> توسط <strong>%s</strong>  %s "
+"یافت."
+
+#: inc/features/wallet/partials/action_menu.php:60
+#, php-format
+msgid ""
+"Inserted amount is greater than user balance. (%s account balance is: %s)"
+msgstr "مبلغ وارد شده از موجودی کاربر بیشتر است. (موجودی حساب %s برابر %s  است)"
+
+#: inc/features/wallet/partials/action_menu.php:69
+#: inc/features/wallet/partials/apply_cart.php:6 inc/options/s3-generator.php:7
+msgid "Please fill all fields"
+msgstr "لطفا تمامی فیلدها را پُر کنید."
+
+#: inc/features/wallet/partials/action_menu.php:91
+#: inc/features/wallet/partials/log_menu.php:122
+#: inc/features/wallet/partials/log_menu.php:132
+msgid "Action Type"
+msgstr "نوع عملیات"
+
+#: inc/features/wallet/partials/action_menu.php:100
+msgid "Point type"
+msgstr "نوع امتیاز"
+
+#: inc/features/wallet/partials/action_menu.php:103
+msgid "Credit balance"
+msgstr "اعتبار غیرنقدی"
+
+#: inc/features/wallet/partials/action_menu.php:105
+#: inc/features/wallet/wallet.class.php:239
+#: woocommerce/myaccount/my-account.php:63
+msgid "Teaching Balance"
+msgstr "اعتبار حق‌التدریس"
+
+#: inc/features/wallet/partials/action_menu.php:106
+#: inc/features/wallet/wallet.class.php:243
+#: woocommerce/myaccount/my-account.php:70
+msgid "Gift Balance"
+msgstr "اعتبار هدیه"
+
+#: inc/features/wallet/partials/action_menu.php:111
+msgid "Message"
+msgstr "پیام"
+
+#: inc/features/wallet/partials/apply_cart.php:29
+#: inc/features/wallet/partials/apply_cart.php:59
+#, php-format
+msgid "Account balance of %s increase with %s on charge code no. %s"
+msgstr "موجودی حساب %s به میزان %s طی استفاده از کارت شارژ %s افزایش یافت."
+
+#: inc/features/wallet/partials/carts_list.php:41
+msgid "Charge ID"
+msgstr "شناسه‌ی شارژ"
+
+#: inc/features/wallet/partials/carts_list.php:61
+#: inc/features/wallet/partials/log_menu.php:98
+msgid "First Page"
+msgstr "صفحه اول"
+
+#: inc/features/wallet/partials/carts_list.php:62
+#: inc/features/wallet/partials/log_menu.php:99
+msgid "Previous Page"
+msgstr "صفحه قبل"
+
+#: inc/features/wallet/partials/carts_list.php:65
+#: inc/features/wallet/partials/log_menu.php:102
+msgid "Current Page"
+msgstr "صفحه فعلی"
+
+#: inc/features/wallet/partials/carts_list.php:73
+#: inc/features/wallet/partials/log_menu.php:110
+msgid "Last Page"
+msgstr "صفحه آخر"
+
+#: inc/features/wallet/partials/carts_list.php:80
+#: inc/features/wallet/partials/export.php:9
+msgid "Unused"
+msgstr "استفاده نشده"
+
+#: inc/features/wallet/partials/carts_list.php:81
+#: inc/features/wallet/partials/export.php:10
+msgid "Used"
+msgstr "استفاده شده"
+
+#: inc/features/wallet/partials/carts_list.php:82
+#: inc/features/wallet/partials/export.php:11
+msgid "Expired"
+msgstr "منقضی شده"
+
+#: inc/features/wallet/partials/carts_list.php:120
+msgid "Make authorized"
+msgstr "فعال کردن"
+
+#: inc/features/wallet/partials/carts_list.php:145
+#: inc/features/wallet/partials/carts_list.php:159
+msgid "Authentication"
+msgstr "وضعیت تایید"
+
+#: inc/features/wallet/partials/charge_menu.php:5
+msgid "Charge Carts"
+msgstr "کارت‌های شارژ"
+
+#: inc/features/wallet/partials/charge_menu.php:6
+msgid "Generate Cart"
+msgstr "تولید کارت"
+
+#: inc/features/wallet/partials/charge_menu.php:7
+msgid "Apply Cart"
+msgstr "اعمال کارت"
+
+#: inc/features/wallet/partials/charge_menu.php:8
+#: inc/features/wallet/partials/import.php:54
+#: inc/features/wallet/partials/import.php:75
+msgid "Import"
+msgstr "درون‌ریزی"
+
+#: inc/features/wallet/partials/export.php:8
+#: inc/features/wallet/partials/log_menu.php:74
+msgid "All"
+msgstr "همه"
+
+#: inc/features/wallet/partials/export.php:16
+msgid "Fields:"
+msgstr "فیلدها:"
+
+#: inc/features/wallet/partials/export.php:61
+msgid "Format:"
+msgstr "فرمت:"
+
+#: inc/features/wallet/partials/export.php:64
+msgid "CSV (Excel)"
+msgstr "CSV (Excel)"
+
+#: inc/features/wallet/partials/export.php:65
+msgid "JSON"
+msgstr "JSON"
+
+#: inc/features/wallet/partials/generate_cart.php:22
+#, php-format
+msgid "New charge code generated: %s"
+msgstr "کارت شارژ جدید ایجاد شد: %s"
+
+#: inc/features/wallet/partials/generate_cart.php:33
+msgid "Number of carts"
+msgstr "تعداد کارت‌ها"
+
+#: inc/features/wallet/partials/generate_cart.php:44
+#: inc/features/wallet/partials/generate_cart.php:51
+msgid "Please enter in english"
+msgstr "لطفا به انگلیسی وارد کنید."
+
+#: inc/features/wallet/partials/generate_cart.php:48
+msgid "Prefix"
+msgstr "پیشوند"
+
+#: inc/features/wallet/partials/generate_cart.php:59
+msgid "Expiration date"
+msgstr "تاریخ انقضا"
+
+#: inc/features/wallet/partials/generate_cart.php:62
+msgid "Leave empty for unlimited time"
+msgstr "برای دائمی بودن خالی بگذارید"
+
+#: inc/features/wallet/partials/import.php:7
+msgid "Please insert json code."
+msgstr "لطفا کد JSON را وارد کنید."
+
+#: inc/features/wallet/partials/import.php:13
+msgid "Inserted json code is not valid."
+msgstr "کد وارد شده معتبر نمی‌باشد."
+
+#: inc/features/wallet/partials/import.php:42
+msgid "Import Completed."
+msgstr "درون‌ریزی کامل شد."
+
+#: inc/features/wallet/partials/import.php:43
+#, php-format
+msgid "Number of imported carts: %s"
+msgstr "تعداد کارت‌های ورودی: %s"
+
+#: inc/features/wallet/partials/import.php:44
+#, php-format
+msgid "Number of added carts: %s"
+msgstr "تعداد کارت‌های اضافه شده: %s"
+
+#: inc/features/wallet/partials/import.php:57
+msgid "Please insert your exported json's code here."
+msgstr "لطفا کد JSON خود را اینجا وارد کنید."
+
+#: inc/features/wallet/partials/log_menu.php:65
+#: inc/features/wallet/wallet.class.php:92
+msgid "Wallet Logs"
+msgstr "تاریخچه‌ی کیف پول"
+
+#: inc/features/wallet/partials/log_menu.php:71
+msgid "Log ID"
+msgstr "شناسه‌ی لاگ"
+
+#: inc/features/wallet/partials/log_menu.php:168
+msgid "Nothing found."
+msgstr "چیزی یافت نشد."
+
+#: inc/features/wallet/wallet.class.php:115
+msgid "General Settings"
+msgstr "عمومی"
+
+#: inc/features/wallet/wallet.class.php:116
+msgid "After Add Gift"
+msgstr "بعد از دریافت هدیه توسط کاربر"
+
+#: inc/features/wallet/wallet.class.php:117
+msgid "24 Hour Before Gift Expired"
+msgstr "24 ساعت پیش از منقضی شدن"
+
+#: inc/features/wallet/wallet.class.php:119
+msgid "Wallet Percent"
+msgstr "درصد کیف پول"
+
+#: inc/features/wallet/wallet.class.php:120
+msgid "Minimum Withdraw"
+msgstr "حداقل درخواست وجه"
+
+#: inc/features/wallet/wallet.class.php:121
+msgid "Minimum Sheba amount"
+msgstr "حداقل مبلغ شبا"
+
+#: inc/features/wallet/wallet.class.php:122
+msgid "Gift active days"
+msgstr "روزهای فعال بودن"
+
+#: inc/features/wallet/wallet.class.php:123
+#: inc/features/wallet/wallet.class.php:126
+msgid "Email Subject"
+msgstr "موضوع ایمیل"
+
+#: inc/features/wallet/wallet.class.php:124
+#: inc/features/wallet/wallet.class.php:127
+msgid "Email Content"
+msgstr "محتوای ایمیل"
+
+#: inc/features/wallet/wallet.class.php:125
+#: inc/features/wallet/wallet.class.php:128
+msgid "SMS Content"
+msgstr "محتوای پیامک"
+
+#: inc/features/wallet/wallet.class.php:143
+msgid "How much of product price add as gift in user'\\s wallet?"
+msgstr "چند درصد از مبلغ محصولات به عنوان هدیه به کیف پول خریدار اضافه شود؟"
+
+#: inc/features/wallet/wallet.class.php:151
+msgid "Minimum  price to submit a withdraw?"
+msgstr "حداقل مبلغ برای ثبت درخواست واریز وجه چقدر باشد؟"
+
+#: inc/features/wallet/wallet.class.php:159
+msgid "Minimum  amount to make sheba number mandatory?"
+msgstr "وارد کردن شماره شبا از چه مبلغ به بالا اجباری شود؟"
+
+#: inc/features/wallet/wallet.class.php:167
+msgid "How many day after payment, gift is usable?"
+msgstr "هدیه های خرید چند روز پس از پرداخت، قابل استفاده باشد؟"
+
+#: inc/features/wallet/wallet.class.php:176
+#: inc/features/wallet/wallet.class.php:205 inc/options/options.class.php:559
+msgid "Available tags: "
+msgstr "تگ‌های قابل استفاده:"
+
+#: inc/features/wallet/wallet.class.php:178
+#: inc/features/wallet/wallet.class.php:207
+msgid "Order ID:"
+msgstr "شماره سفارش:"
+
+#: inc/features/wallet/wallet.class.php:179
+#: inc/features/wallet/wallet.class.php:208
+msgid "Total gift earned:"
+msgstr "کل هدیه کسب شده:"
+
+#: inc/features/wallet/wallet.class.php:180
+#: inc/features/wallet/wallet.class.php:209
+msgid "Expire date:"
+msgstr "تاریخ منقضی شدن:"
+
+#: inc/features/wallet/wallet.class.php:181
+#: inc/features/wallet/wallet.class.php:210
+msgid "Remain days to expire:"
+msgstr "روزهای باقی مانده تا منقضی شدن:"
+
+#: inc/features/wallet/wallet.class.php:182
+#: inc/features/wallet/wallet.class.php:211
+msgid "User gift balance:"
+msgstr "موجودی هدیه کاربر:"
+
+#: inc/features/wallet/wallet.class.php:232
+msgid "Wallet Summary"
+msgstr "وضعیت کیف پول"
+
+#: inc/features/wallet/wallet.class.php:235
+#: woocommerce/myaccount/my-account.php:49
+msgid "Credit Balance"
+msgstr "اعتبار غیرنقدی"
+
+#: inc/features/wallet/wallet.class.php:251
+msgid "Expiration date:"
+msgstr "تاریخ انقضا: "
+
+#: inc/features/wallet/wallet_withdraw.class.php:30
+#: inc/features/wallet/wallet_withdraw.class.php:32
+msgid "Withdraws"
+msgstr "درخواست‌های وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:34
+msgid "Withdraw Archives"
+msgstr "آرشیو درخواست‌های وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:35
+msgid "Parent Withdraw:"
+msgstr "درخواست وجه والد:"
+
+#: inc/features/wallet/wallet_withdraw.class.php:36
+msgid "All Withdraws"
+msgstr "درخواست‌های وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:37
+msgid "Add New Withdraw"
+msgstr "افزودن درخواست وجه جدید"
+
+#: inc/features/wallet/wallet_withdraw.class.php:39
+msgid "New Withdraw"
+msgstr "درخواست وجه جدید"
+
+#: inc/features/wallet/wallet_withdraw.class.php:40
+msgid "Edit Withdraw"
+msgstr "ویرایش درخواست وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:41
+msgid "Update Withdraw"
+msgstr "بروزرسانی درخواست وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:42
+msgid "View Withdraw"
+msgstr "مشاهده درخواست وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:43
+msgid "Search Withdraw"
+msgstr "جستجوی درخواست وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:44
+msgid "Not found"
+msgstr "یافت نشد"
+
+#: inc/features/wallet/wallet_withdraw.class.php:45
+msgid "Not found in Trash"
+msgstr "چیزی در زباله‌دان یافت نشد."
+
+#: inc/features/wallet/wallet_withdraw.class.php:46
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: inc/features/wallet/wallet_withdraw.class.php:47
+msgid "Set featured image"
+msgstr "قراردادن به عنوان تصویر شاخص"
+
+#: inc/features/wallet/wallet_withdraw.class.php:48
+msgid "Remove featured image"
+msgstr "حذف تصویر شاخص"
+
+#: inc/features/wallet/wallet_withdraw.class.php:49
+msgid "Use as featured image"
+msgstr "استفاده به عنوان تصویر شاخص"
+
+#: inc/features/wallet/wallet_withdraw.class.php:50
+msgid "Insert into Withdraw"
+msgstr "قراردادن داخل درخواست وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:51
+msgid "Uploaded to this Withdraw"
+msgstr "بارگزاری شده در این درخواست وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:52
+msgid "Withdraws list"
+msgstr "فهرست درخواست‌های وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:53
+msgid "Withdraw list navigation"
+msgstr "صفحات درخواست‌های وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:54
+msgid "Filter Withdraws list"
+msgstr "صافی فهرست درخواست‌های وجه"
+
+#: inc/features/wallet/wallet_withdraw.class.php:58
+msgid "Wallet Withdraws"
+msgstr "درخواست‌های وجه کیف پول"
+
+#: inc/features/wallet/wallet_withdraw.class.php:86
+msgid "Card number"
+msgstr "شماره کارت"
+
+#: inc/features/wallet/wallet_withdraw.class.php:87
+msgid "Sheba number"
+msgstr "شماره شبا"
+
+#: inc/features/wallet/wallet_withdraw.class.php:88
+msgid "Card owner name"
+msgstr "نام صاحب کارت"
+
+#: inc/features/wallet/wallet_withdraw.class.php:129
+#: inc/features/wallet/wallet_withdraw.class.php:138
+msgid "Refund"
+msgstr "برگشت زدن درخواست"
+
+#: inc/features/wallet/wallet_withdraw.class.php:135
+msgid "Approve"
+msgstr "تایید درخواست"
+
+#: inc/features/wallet/wallet_withdraw.class.php:136
+msgid "Deposit"
+msgstr "پرداخت درخواست"
+
+#: inc/features/wallet/wallet_withdraw.class.php:137
+msgid "Reject"
+msgstr "رد درخواست"
+
+#: inc/features/wallet/wallet_withdraw.class.php:219
+#, php-format
+msgid "Refunding withdraw no. %s"
+msgstr "برگشت خوردن درخواست واریز وجه به شماره‌ی %s"
+
+#: inc/features/wallet/wallet_withdraw.class.php:224
+msgid "Operation successfully done."
+msgstr "عملیات با موفقیت انجام شد."
+
+#: inc/features/widgets/top-posts-widget.class.php:17
+msgid "HamyarWP Top Posts"
+msgstr "مطالب برتر همیار"
+
+#: inc/features/widgets/top-posts-widget.class.php:18
+msgid "Show top posts of site in widget area"
+msgstr "نمایش برترین مطالب سایت در ناحیه ابزارک"
+
+#: inc/features/widgets/top-posts-widget.class.php:84
+msgid "Top Posts"
+msgstr "مطالب برتر"
+
+#: inc/features/widgets/top-posts-widget.class.php:90
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/features/widgets/top-posts-widget.class.php:94
+msgid "Date range:"
+msgstr "بازه زمانی:"
+
+#: inc/features/widgets/top-posts-widget.class.php:96
+#: template-parts/content-filter.php:28
+msgid "Week"
+msgstr "هفته"
+
+#: inc/features/widgets/top-posts-widget.class.php:97
+#: template-parts/content-filter.php:29
+msgid "Month"
+msgstr "ماه"
+
+#: inc/features/widgets/top-posts-widget.class.php:98
+#: template-parts/content-filter.php:27
+msgid "All Time"
+msgstr "همه زمان‌ها"
+
+#: inc/features/widgets/top-posts-widget.class.php:102
+msgid "Based On:"
+msgstr "بر اساس:"
+
+#: inc/features/widgets/top-posts-widget.class.php:104
+msgid "Views"
+msgstr "بازدید"
+
+#: inc/features/widgets/top-posts-widget.class.php:105
+msgid "Star Rate"
+msgstr "امتیاز ستاره‌ای"
+
+#: inc/features/widgets/top-posts-widget.class.php:109
+msgid "Number:"
+msgstr "تعداد:"
+
+#: inc/features/widgets/widgets.class.php:46
+msgid "Background Color:"
+msgstr "رنگ پس‌زمینه:"
+
+#: inc/features/widgets/widgets.class.php:50
+msgid "Icon:"
+msgstr "آیکن:"
+
+#: inc/features/widgets/widgets.class.php:52
+msgid "Example: fa-thumb-tack"
+msgstr "مثال: fa-thumb-tack"
+
+#: inc/features/widgets/widgets.class.php:56
+msgid "Hide Title?"
+msgstr "مخفی کردن عنوان؟"
+
+#: inc/features/widgets/widgets.class.php:60
+msgid "Align Center?"
+msgstr "وسط چین؟"
+
+#: inc/features/widgets/widgets.class.php:64
+msgid "No Padding?"
+msgstr "بدون فاصله؟"
+
+#: inc/functions.php:106
+msgid "Million"
+msgstr "میلیون"
+
+#: inc/functions.php:108
+msgid "Thousand"
+msgstr "هزار"
+
+#: inc/functions.php:159
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: inc/functions.php:160
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: inc/functions.php:245
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/options/options.class.php:17 inc/options/options.class.php:18
+#: inc/options/settings.php:2
+msgid "HamyarWp Options"
+msgstr "تنظیمات همیار"
+
+#: inc/options/options.class.php:42
+msgid "Pages"
+msgstr "صفحات"
+
+#: inc/options/options.class.php:48
+msgid "Contacts information"
+msgstr "اطلاعات تماس"
+
+#: inc/options/options.class.php:54
+msgid "Additional Codes"
+msgstr "کدهای اضافه"
+
+#: inc/options/options.class.php:60
+msgid "Mailerlite Settings"
+msgstr "تنظیمات میلرلایت"
+
+#: inc/options/options.class.php:66
+msgid "Woocommerce Settings"
+msgstr "تنظیمات ووکامرس"
+
+#: inc/options/options.class.php:72
+msgid "Course Downloads Settings"
+msgstr "تنظیمات دانلود دوره‌ها"
+
+#: inc/options/options.class.php:84 inc/options/settings.php:9
+msgid "Filters"
+msgstr "فیلترها"
+
+#: inc/options/options.class.php:92 woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:115
+#: woocommerce/myaccount/form-login.php:123
+msgid "Register"
+msgstr "ثبت‌نام"
+
+#: inc/options/options.class.php:99 woocommerce/myaccount/form-login.php:59
+#: woocommerce/myaccount/form-login.php:112
+msgid "Login"
+msgstr "ورود"
+
+#: inc/options/options.class.php:113
+msgid "Course Property"
+msgstr "مشخصات دوره"
+
+#: inc/options/options.class.php:120
+msgid "Comments Rules"
+msgstr "قوانین ارسال دیدگاه"
+
+#: inc/options/options.class.php:127
+msgid "Reportage Tag"
+msgstr "برچسب ریپورتاژ"
+
+#: inc/options/options.class.php:134
+msgid "ADS Page"
+msgstr "پلن‌های تبلیغات"
+
+#: inc/options/options.class.php:141
+msgid "Submit Ticket Page"
+msgstr "صفحه ارسال تیکت"
+
+#: inc/options/options.class.php:148
+msgid "Css Code"
+msgstr "کد سی اس اس"
+
+#: inc/options/options.class.php:155
+msgid "Javascript Code"
+msgstr "کد جاوااسکریپت"
+
+#: inc/options/options.class.php:162
+msgid "Address"
+msgstr "آدرس"
+
+#: inc/options/options.class.php:169
+msgid "Phone"
+msgstr "تلفن"
+
+#: inc/options/options.class.php:176
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+#: inc/options/options.class.php:183
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+#: inc/options/options.class.php:190
+msgid "API Key"
+msgstr "کلید API"
+
+#: inc/options/options.class.php:197
+msgid "Footer Newsletter Group"
+msgstr "گروه خبرنامه‌ی فوتر"
+
+#: inc/options/options.class.php:204
+msgid "IranS3 API Key"
+msgstr "کلید API ایران‌اس۳"
+
+#: inc/options/options.class.php:211
+msgid "IranS3 API Secret"
+msgstr "رمز API ایران‌اس۳"
+
+#: inc/options/options.class.php:218
+msgid "IranS3 Bucket name"
+msgstr "نام باکت ایران‌اس۳"
+
+#: inc/options/options.class.php:225
+msgid "IranS3 Download Link Active time"
+msgstr "زمان فعال بودن لینک دانلود"
+
+#: inc/options/options.class.php:232
+msgid "Panel Coupons"
+msgstr "کوپن‌های پنل کاربری"
+
+#: inc/options/options.class.php:239
+msgid "My Account Tabs"
+msgstr "تب‌های صفحه حساب کاربری من"
+
+#: inc/options/options.class.php:246
+msgid "My Account Tabs Order"
+msgstr "مرتب‌سازی تب‌های صفحه حساب کاربری من"
+
+#: inc/options/options.class.php:344
+msgid "Slides"
+msgstr "اسلایدها"
+
+#: inc/options/options.class.php:351
+msgid "Filter home categories"
+msgstr "دسته‌بندی‌های فیلتر صفحه اصلی"
+
+#: inc/options/options.class.php:477
+msgid "This group use for footer newsleeter form"
+msgstr "این گروه برای خبرنامه فوتر استفاده خواهد شد"
+
+#: inc/options/options.class.php:561
+msgid "Course title:"
+msgstr "عنوان دوره:"
+
+#: inc/options/options.class.php:562
+msgid "Customer Name:"
+msgstr "نام مشتری:"
+
+#: inc/options/options.class.php:563
+msgid "Customer User Name:"
+msgstr "کلمه عبور مشتری:"
+
+#: inc/options/options.class.php:564
+msgid "Customer Password:"
+msgstr "رمز عبور مشتری:"
+
+#: inc/options/s3-generator.php:18 inc/woocommerce/woocommerce.class.php:367
+msgid "Authentication Failed"
+msgstr "احراز هویت انجام نشد"
+
+#: inc/options/s3-generator.php:21 inc/woocommerce/woocommerce.class.php:370
+msgid "Token inValid"
+msgstr "توکن نامعتبر است"
+
+#: inc/options/s3-generator.php:24 inc/woocommerce/woocommerce.class.php:373
+msgid "API Disabled"
+msgstr "API غیرفعال شده است"
+
+#: inc/options/s3-generator.php:27 inc/woocommerce/woocommerce.class.php:376
+msgid "File Or Bucket Not sst"
+msgstr "فایل یا باکت sst نیست"
+
+#: inc/options/s3-generator.php:30 inc/woocommerce/woocommerce.class.php:379
+msgid "File Not Found"
+msgstr "فایل یافت نشد"
+
+#: inc/options/s3-generator.php:33 inc/woocommerce/woocommerce.class.php:382
+msgid "Project Not Found"
+msgstr "پروژه یافت نشد"
+
+#: inc/options/s3-generator.php:36 inc/woocommerce/woocommerce.class.php:385
+msgid "You Not Access To This File"
+msgstr "شما به این فایل دسترسی ندارید"
+
+#: inc/options/s3-generator.php:39 inc/woocommerce/woocommerce.class.php:388
+msgid "File Not Found On Master"
+msgstr "فایل بر روی master یافت نشد"
+
+#: inc/options/s3-generator.php:42 inc/woocommerce/woocommerce.class.php:391
+msgid "Invalid Response From Master"
+msgstr "پاسخ نا معتبر از master"
+
+#: inc/options/s3-generator.php:45 inc/woocommerce/woocommerce.class.php:394
+msgid "User info Not set"
+msgstr "اطلاعات کاربر تعیین نشده است"
+
+#: inc/options/s3-generator.php:48 inc/woocommerce/woocommerce.class.php:397
+msgid "Word Not set"
+msgstr "کلمه تعیین نشده است"
+
+#: inc/options/s3-generator.php:55
+#, php-format
+msgid "New Link Generated. %s"
+msgstr "لینک جدید ساخته شد: %s"
+
+#: inc/options/s3-generator.php:64
+msgid "S3 link generator"
+msgstr "تولید کننده لینک S3"
+
+#: inc/options/s3-generator.php:69
+msgid "File name:"
+msgstr "نام فایل:"
+
+#: inc/options/s3-generator.php:72
+msgid "Should be exactly same as file name in S3"
+msgstr "باید دقیقا با نام فایل داخل S3 یکسان باشد"
+
+#: inc/options/s3-generator.php:76
+msgid "Active Time:"
+msgstr "زمان فعال بودن:"
+
+#: inc/options/s3-generator.php:79
+msgid "How many second be active?"
+msgstr "لینک تولید شده چند تا ثانیه قابل دانلود باشد؟"
+
+#: inc/options/s3-generator.php:84
+msgid "Generate"
+msgstr "تولید"
+
+#: inc/options/settings.php:6
+msgid "Woocommerce"
+msgstr "ووکامرس"
+
+#: inc/options/settings.php:7
+msgid "Mailerlite"
+msgstr "میلرلایت"
+
+#: inc/options/settings.php:8
+msgid "Course Downloads"
+msgstr "دانلود دوره‌ها"
+
+#: inc/options/settings.php:10
+msgid "S3 Link Generator"
+msgstr "ساخت لینک S3"
+
+#: inc/options/wc-my-account-tabs-callback.php:4
+msgid "Please enter key as english and without special characters"
+msgstr "لطفا کلید را به انگلیسی و بدون کاراکترهای خاص وارد کنید."
+
+#: inc/options/wc-my-account-tabs-callback.php:5
+msgid "You can use this shortcodes."
+msgstr "از این شورت‌کدها می‌توانید استفاده کنید."
+
+#: inc/options/wc-my-account-tabs-callback.php:8
+msgid "Wallet Logs:"
+msgstr "تاریخچه‌ی کیف پول:"
+
+#: inc/options/wc-my-account-tabs-callback.php:12
+msgid "Wallet Charge Products:"
+msgstr "شارژهای کیف پول:"
+
+#: inc/options/wc-my-account-tabs-callback.php:16
+msgid "Wallet Withdraw:"
+msgstr "درخواست وجه کیف پول:"
+
+#: inc/options/wc-my-account-tabs-callback.php:20
+msgid "HamyarWP Points:"
+msgstr "امتیازات همیار وردپرس:"
+
+#: inc/options/wc-my-account-tabs-callback.php:75
+#: inc/options/wc-my-account-tabs-callback.php:84
+msgid "Key"
+msgstr "کلید"
+
+#: inc/options/wc-my-account-tabs-callback.php:78
+#: inc/options/wc-my-account-tabs-callback.php:87
+msgid "Content"
+msgstr "محتوا"
+
+#: inc/options/wc-my-account-tabs-callback.php:79
+#: inc/options/wc-my-account-tabs-callback.php:88
+msgid "Actions"
+msgstr "عملیات"
+
+#: inc/public.class.php:90 inc/woocommerce/panel.class.php:99
+msgid "Logout"
+msgstr "خروج"
+
+#: inc/public.class.php:110
+msgid "Please insert your email address"
+msgstr "لطفا ایمیل خود را وارد کنید."
+
+#: inc/public.class.php:127
+msgid "Something goes wrong"
+msgstr "خطایی رخ داد. مجددا تلاش کنید"
+
+#: inc/public.class.php:154 inc/public.class.php:159
+msgid "Your vote submitted."
+msgstr "امتیاز شما ثبت شد."
+
+#: inc/public.class.php:161
+msgid "Something goes wrong. please try again"
+msgstr "خظایی رخ داد! لطفا دوباره سعی کنید."
+
+#: inc/public.class.php:202
+msgid "Orderby value is not valid."
+msgstr "نحوه نمایش نامعتبر است."
+
+#: inc/public.class.php:205
+msgid "Plaese select sort field"
+msgstr "لطفا گزینه‌ی نحوه نمایش را انتخاب کنید."
+
+#: inc/public.class.php:218
+msgid "Date value is not valid."
+msgstr "بازه زمانی انتخاب شده معتبر نمی‌باشد."
+
+#: inc/public.class.php:221
+msgid "Plaese select date range"
+msgstr "لطفا بازه زمانی را انتخاب کنید"
+
+#: inc/public.class.php:230
+msgid "Category ID is not valid."
+msgstr "موضوع انتخاب شده معتبر نمی‌باشد."
+
+#: inc/public.class.php:234
+msgid "Plaese select category"
+msgstr "لطفا دسته مورد نظر خود را انتخاب کنید."
+
+#: inc/public.class.php:313 inc/public.class.php:322
+#: template-parts/content-home.php:19 template-parts/content-home.php:29
+#: template-parts/content-single.php:14 template-parts/content-single.php:24
+msgid "Online Preview"
+msgstr "پیش‌نمایش آنلاین"
+
+#: inc/public.class.php:372
+#, php-format
+msgid ""
+"Sending comments means that you read <a href=\"%s\" target=\"_blank"
+"\">Comments rules</a> and accept it."
+msgstr ""
+"ارسال دیدگاه به معنی این است که شما ابتدا <a href=\"%s\" target=\"_blank"
+"\">قوانین ارسال دیدگاه</a> را مطالعه کرده‌اید و با آن موافق هستید."
+
+#: inc/setup.class.php:57
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: inc/setup.class.php:58
+msgid "Footer Menu"
+msgstr "منوی فوتر"
+
+#: inc/setup.class.php:59
+msgid "Mobile Menu"
+msgstr "منوی موبایل"
+
+#: inc/setup.class.php:60
+msgid "User Menu"
+msgstr "منوی کاربری"
+
+#: inc/setup.class.php:71
+msgid "Home Sidebar"
+msgstr "سایدبار صفحه نخست"
+
+#: inc/setup.class.php:79
+msgid "Home Conditional Sidebar"
+msgstr "سایدبار شرطی صفحه نخست"
+
+#: inc/setup.class.php:87
+msgid "Single Sidebar"
+msgstr "سایدبار سینگل"
+
+#: inc/setup.class.php:95
+msgid "Single Conditional Sidebar"
+msgstr "سایدبار شرطی سینگل"
+
+#: inc/setup.class.php:103
+msgid "After Content"
+msgstr "بعد از متن مطلب"
+
+#: inc/setup.class.php:111
+msgid "After Content Conditional"
+msgstr "بعد از متن مطلب شرطی"
+
+#: inc/setup.class.php:120
+msgid "Shop Sidebar"
+msgstr "سایدبار فروشگاه"
+
+#: inc/setup.class.php:128
+msgid "Shop Conditional Sidebar"
+msgstr "سایدبار شرطی فروشگاه"
+
+#: inc/setup.class.php:136
+msgid "Shop Product Sidebar"
+msgstr "سایدبار محصول"
+
+#: inc/setup.class.php:144
+msgid "Shop Product Conditional Sidebar"
+msgstr "سایدبار محصول شرطی"
+
+#: inc/setup.class.php:152
+msgid "General Sidebar"
+msgstr "سایدبار عمومی"
+
+#: inc/setup.class.php:160
+msgid "General Conditional Sidebar"
+msgstr "سایدبار عمومی شرطی"
+
+#: inc/setup.class.php:168
+msgid "Download Landing ADS"
+msgstr "تبلیغات صفحه‌ی دانلود"
+
+#: inc/setup.class.php:176
+msgid "Eyd Landing Newsletter"
+msgstr "خبرنامه لندینگ نوروزی"
+
+#: inc/woocommerce/downloads.class.php:37
+msgid "Download course info"
+msgstr "اطلاعات دانلود دوره‌ها"
+
+#: inc/woocommerce/downloads.class.php:40
+#: woocommerce/myaccount/form-login.php:77
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: inc/woocommerce/downloads.class.php:176
+msgid "List Of this product customers"
+msgstr "لیست خریداران این محصول"
+
+#: inc/woocommerce/downloads.class.php:188
+msgid "Previous buyers"
+msgstr "خریداران قبلی"
+
+#: inc/woocommerce/downloads.class.php:194
+msgid "Customer name"
+msgstr "نام مشتری"
+
+#: inc/woocommerce/downloads.class.php:195
+msgid "Customer User ID"
+msgstr "شناسه کاربری مشتری"
+
+#: inc/woocommerce/downloads.class.php:196
+msgid "Customer Email"
+msgstr "ایمیل مشتری"
+
+#: inc/woocommerce/downloads.class.php:197
+msgid "Access"
+msgstr "دسترسی"
+
+#: inc/woocommerce/downloads.class.php:208
+msgid "Guest"
+msgstr "مهمان"
+
+#: inc/woocommerce/downloads.class.php:214
+#: inc/woocommerce/downloads.class.php:230
+msgid "Remove Access"
+msgstr "حذف دسترسی"
+
+#: inc/woocommerce/downloads.class.php:241
+msgid "Add new customer to list"
+msgstr "افزودن مشتری جدید به لیست"
+
+#: inc/woocommerce/downloads.class.php:243
+msgid "For add new user to list, enter his email here and update product"
+msgstr ""
+"برای افزودن کاربر به لیست خریداران، ایمیل کاربر در سایت را اینجا وارد کرده و "
+"محصول را بروزرسانی کنید."
+
+#: inc/woocommerce/downloads.class.php:246
+msgid "Customer Email:"
+msgstr "ایمیل مشتری:"
+
+#: inc/woocommerce/downloads.class.php:258
+msgid "Update customer access list"
+msgstr "به روز رسانی لیست دسترسی دانلود مشتریان"
+
+#: inc/woocommerce/downloads.class.php:260
+msgid "To update download access use this buttons."
+msgstr ""
+"برای به روز رسانی دسترسی‌های دانلود کاربران، از دکمه‌های زیر استفاده کنید."
+
+#: inc/woocommerce/downloads.class.php:266
+msgid "Upload Passwords List"
+msgstr "بارگذاری لیست کلمات عبور"
+
+#: inc/woocommerce/downloads.class.php:271
+msgid "Regenerate Passwords List"
+msgstr "بازسازی لیست کلمات عبور"
+
+#: inc/woocommerce/downloads.class.php:274
+msgid ""
+"Attention! Regenerating passwords list is a huge process. Be Careful with "
+"that!"
+msgstr ""
+"توجه! بازسازی لیست کلمات عبور پروسه‌ای سنگین است که فشار زیادی به سرور وارد "
+"خواهد کرد. لطفا در موارد ضروری از آن استفاده کنید."
+
+#: inc/woocommerce/downloads.class.php:342
+#: inc/woocommerce/downloads.class.php:438
+msgid "Password lists updated successfully."
+msgstr "کلمه‌های عبور با موفقیت بروزرسانی شدند."
+
+#: inc/woocommerce/downloads.class.php:344
+msgid "Login to ftp server filed."
+msgstr "ورود به سرور FTP نا موفق بود."
+
+#: inc/woocommerce/downloads.class.php:347
+msgid "Connection to ftp server filed."
+msgstr "اتصال به سرور FTP برقرار نشد."
+
+#: inc/woocommerce/downloads.class.php:349
+#: inc/woocommerce/woocommerce.class.php:409
+msgid "Something goes wrong. please try again."
+msgstr "خطایی رخ داد. لطفا دوباره تلاش کنید."
+
+#: inc/woocommerce/downloads.class.php:448
+msgid "Please insert email address."
+msgstr "لطفا آدرس ایمیل را وارد کنید."
+
+#: inc/woocommerce/downloads.class.php:464
+msgid ""
+"New Customer Added to the list. Now Please Upload passwords list with the "
+"<strong>Upload Passwords List </strong> Button."
+msgstr ""
+"مشتری جدید به لیست اضافه شد. اینک لطفا با استفاده از دکمه‌ی <strong>بارگذاری "
+"لیست کلمات عبور</strong> لیست جدید را بر روی سرور بارگذاری کنید."
+
+#: inc/woocommerce/downloads.class.php:466
+msgid "Inserted email doesn't have an account in our site!"
+msgstr "ایمیل وارد شده حساب کاربری در سایت ما ندارد!"
+
+#: inc/woocommerce/downloads.class.php:477
+msgid "Date is incorrect"
+msgstr "داده‌ها اشتباه هستند."
+
+#: inc/woocommerce/downloads.class.php:489
+msgid ""
+"Customer removed from the list. Now Please Upload passwords list with the "
+"<strong>Upload Passwords List </strong> Button."
+msgstr ""
+"مشتری جدید از لیست حذف شد. اینک لطفا با استفاده از دکمه‌ی <strong>بارگذاری "
+"لیست کلمات عبور</strong> لیست جدید را بر روی سرور بارگذاری کنید."
+
+#: inc/woocommerce/panel.class.php:94
+msgid "Orders"
+msgstr "سفارشات"
+
+#: inc/woocommerce/panel.class.php:98
+msgid "Account Details"
+msgstr "مشخصات کاربری"
+
+#: inc/woocommerce/partials/course_info_callback.php:15
+msgid "Teacher's user ID:"
+msgstr "شناسه کاربری مدرس:"
+
+#: inc/woocommerce/partials/course_info_callback.php:19
+msgid "Teacher's commision:"
+msgstr "کمیسیون مدرس:"
+
+#: inc/woocommerce/partials/course_info_callback.php:23
+msgid "Video Preview URL:"
+msgstr "آدرس ویدیوی پیش‌نمایش"
+
+#: inc/woocommerce/partials/course_info_callback.php:27
+msgid "Video Poster:"
+msgstr "پوستر ویدیو:"
+
+#: inc/woocommerce/partials/course_info_callback.php:36
+msgid "Add Video Poster"
+msgstr "افزودن پوستر ویدیو"
+
+#: inc/woocommerce/partials/course_info_callback.php:40
+msgid "Product Cover (837*400):"
+msgstr "تصویر کاور (837*400):"
+
+#: inc/woocommerce/partials/course_info_callback.php:49
+msgid "Add Cover image"
+msgstr "افزودن تصویر کاور"
+
+#: inc/woocommerce/partials/course_info_callback.php:53
+msgid "Customers testomonial"
+msgstr "دیدگاه مشتریان:"
+
+#: inc/woocommerce/partials/course_info_callback.php:57
+msgid "Faq:"
+msgstr "پرسش و پاسخ:"
+
+#: inc/woocommerce/partials/course_info_callback.php:62
+#: inc/woocommerce/partials/course_info_callback.php:73
+#: inc/woocommerce/partials/course_info_callback.php:94
+msgid "Question:"
+msgstr "پرسش:"
+
+#: inc/woocommerce/partials/course_info_callback.php:64
+#: inc/woocommerce/partials/course_info_callback.php:75
+#: inc/woocommerce/partials/course_info_callback.php:96
+msgid "Answer:"
+msgstr "پاسخ:"
+
+#: inc/woocommerce/wc_customize_theme.class.php:179 sidebar-single_shop.php:110
+msgid "Student"
+msgstr "دانشجو"
+
+#: inc/woocommerce/wc_customize_theme.class.php:190
+msgid "Gift Credit"
+msgstr "اعتبار هدیه"
+
+#: inc/woocommerce/wc_customize_theme.class.php:196
+msgid "More Info"
+msgstr "اطلاعات بیشتر"
+
+#: inc/woocommerce/wc_customize_theme.class.php:212
+msgid "Home"
+msgstr "خانه"
+
+#: inc/woocommerce/woocommerce.class.php:43
+msgid "Course Information"
+msgstr "اطلاعات دوره"
+
+#: inc/woocommerce/woocommerce.class.php:74
+msgid "Course lessons info"
+msgstr "اطلاعات جلسات"
+
+#: inc/woocommerce/woocommerce.class.php:87
+#: inc/woocommerce/woocommerce.class.php:134
+#: inc/woocommerce/woocommerce.class.php:186
+msgid "Lesson title:"
+msgstr "عنوان جلسه:"
+
+#: inc/woocommerce/woocommerce.class.php:91
+#: inc/woocommerce/woocommerce.class.php:138
+#: inc/woocommerce/woocommerce.class.php:190
+msgid "Lesson File name in S3:"
+msgstr "نام فایل جلسه در S3:"
+
+#: inc/woocommerce/woocommerce.class.php:95
+#: inc/woocommerce/woocommerce.class.php:142
+#: inc/woocommerce/woocommerce.class.php:194
+msgid "Active time link:"
+msgstr "زمان فعال بودن لینک:"
+
+#: inc/woocommerce/woocommerce.class.php:97
+#: inc/woocommerce/woocommerce.class.php:144
+#: inc/woocommerce/woocommerce.class.php:196
+msgid "If you want to use default setting, leave this blank"
+msgstr "اگر مایل به استفاده از زمان پیش‌فرض هستید این فیلد را خالی بگذارید."
+
+#: inc/woocommerce/woocommerce.class.php:100
+#: inc/woocommerce/woocommerce.class.php:147
+#: inc/woocommerce/woocommerce.class.php:199
+msgid "File Size:"
+msgstr "حجم فایل:"
+
+#: inc/woocommerce/woocommerce.class.php:102
+#: inc/woocommerce/woocommerce.class.php:149
+#: inc/woocommerce/woocommerce.class.php:201
+msgid "Insert file size in MegaByte"
+msgstr "به مگابایت وارد کنید"
+
+#: inc/woocommerce/woocommerce.class.php:105
+#: inc/woocommerce/woocommerce.class.php:152
+#: inc/woocommerce/woocommerce.class.php:204
+msgid "Lesson Time:"
+msgstr "زمان جلسه:"
+
+#: inc/woocommerce/woocommerce.class.php:107
+#: inc/woocommerce/woocommerce.class.php:154
+#: inc/woocommerce/woocommerce.class.php:206 woocommerce/single-product.php:56
+msgid "Minute"
+msgstr "دقیقه"
+
+#: inc/woocommerce/woocommerce.class.php:108
+#: inc/woocommerce/woocommerce.class.php:155
+#: inc/woocommerce/woocommerce.class.php:207
+msgid "Hour"
+msgstr "ساعت"
+
+#: inc/woocommerce/woocommerce.class.php:112
+#: inc/woocommerce/woocommerce.class.php:159
+#: inc/woocommerce/woocommerce.class.php:211
+msgid "Lesson Topics:"
+msgstr "سرفصل‌های جلسه:"
+
+#: inc/woocommerce/woocommerce.class.php:115
+#: inc/woocommerce/woocommerce.class.php:161
+#: inc/woocommerce/woocommerce.class.php:213
+#: inc/woocommerce/woocommerce.class.php:249
+msgid "Topic title"
+msgstr "عنوان سرفصل"
+
+#: index.php:20
+msgid "Previous page"
+msgstr "صفحه قبلی"
+
+#: index.php:21
+msgid "Next page"
+msgstr "صفحه بعدی"
+
+#: index.php:22
+msgid "Page"
+msgstr "صفحه"
+
+#: page_templates/contactus.php:73
+msgid "Central office address"
+msgstr "آدرس دفتر مرکزی"
+
+#: page_templates/contactus.php:75
+msgid "Contact Phone"
+msgstr "تلفن تماس"
+
+#: searchform.php:6
+msgid "Search Your article name"
+msgstr "نام مقاله یا آموزش را جستجو کنید"
+
+#: sidebar-single_shop.php:27 woocommerce/single-product.php:82
+msgid "Giga Byte"
+msgstr " گیگا بایت"
+
+#: sidebar-single_shop.php:48 woocommerce/single-product.php:56
+#: woocommerce/single-product.php:103
+msgid " Hour And "
+msgstr " ساعت و "
+
+#: sidebar-single_shop.php:48 woocommerce/single-product.php:103
+msgid " Minute "
+msgstr " دقیقه "
+
+#: sidebar-single_shop.php:65 woocommerce/single-product.php:185
+msgid "Course Info"
+msgstr "مشخصات دوره"
+
+#: sidebar-single_shop.php:71 woocommerce/single-product.php:192
+msgid "Download course files"
+msgstr "دانلود فایل‌های دوره"
+
+#: sidebar-single_shop.php:73 woocommerce/myaccount/downloads.php:86
+#: woocommerce/single-product.php:194
+msgid "Take this course"
+msgstr "شرکت در این دوره"
+
+#: sidebar-single_shop.php:75 woocommerce/single-product.php:197
+msgid "Don't have an Iranian card?"
+msgstr "کارت بانکی ایرانی ندارید؟"
+
+#: sidebar-single_shop.php:76 woocommerce/single-product.php:199
+msgid "Pay Internationally:"
+msgstr "بین‌المللی پرداخت کنید:"
+
+#: sidebar-single_shop.php:83 woocommerce/single-product.php:207
+#, php-format
+msgid "Earn <strong> %s </strong> gift credit"
+msgstr "دریافت <strong> %s </strong> اعتبار هدیه"
+
+#: sidebar-single_shop.php:84 woocommerce/single-product.php:210
+#, php-format
+msgid "Number of Lessons:  %s  Lesson"
+msgstr " تعداد جلسات: %s جلسه"
+
+#: sidebar-single_shop.php:85 woocommerce/single-product.php:213
+msgid "Categories: "
+msgstr "دسته‌بندی: "
+
+#: sidebar-single_shop.php:86 woocommerce/single-product.php:216
+#, php-format
+msgid "Time duration:  %s "
+msgstr "زمان کل دوره: %s "
+
+#: sidebar-single_shop.php:87 woocommerce/single-product.php:219
+#, php-format
+msgid "Total Size:  %s "
+msgstr " جمع کل دوره:  %s "
+
+#: sidebar-single_shop.php:101
+msgid "Interested"
+msgstr "علاقه‌مند"
+
+#: sidebar-single_shop.php:124
+msgid "Teacher"
+msgstr "مدرس"
+
+#: sidebar-single_shop.php:138
+msgid "Student's vote"
+msgstr "امتیاز دانشجویان"
+
+#: sidebar-single_shop.php:156
+#, php-format
+msgid "This course from %s student got %s from 5"
+msgstr "این دوره از نظر %s دانشجو امتیاز %s از 5 را کسب کرده است."
+
+#: sidebar-single_shop.php:166
+msgid "Your rate:"
+msgstr "امتیاز شما:"
+
+#: template-parts/content-filter.php:18
+msgid "Newest Posts"
+msgstr "جدیدترین مطالب"
+
+#: template-parts/content-filter.php:19
+msgid "Oldest Posts"
+msgstr "قدیمی‌ترین مطالب"
+
+#: template-parts/content-filter.php:20
+msgid "Popular Posts: Rate"
+msgstr "محبوب‌ترین مطالب: بر اساس امتیاز"
+
+#: template-parts/content-filter.php:21
+msgid "Popular Posts: Views"
+msgstr "محبوب‌ترین مطالب: بر اساس بازدید"
+
+#: template-parts/content-filter.php:22
+msgid "Popular Posts: Comments"
+msgstr "محبوب‌ترین مطالب: بر اساس دیدگاه"
+
+#: template-parts/content-filter.php:30
+msgid "Year"
+msgstr "سال"
+
+#: template-parts/content-filter.php:38
+msgid "All Categories "
+msgstr "همه دسته‌ها"
+
+#: template-parts/content-related.php:18
+msgid "we suggest this post to read"
+msgstr "مطالب زیر را حتما بخوانید"
+
+#: template-parts/content-single.php:7
+msgid "Categories:"
+msgstr "دسته‌بندی‌ها:"
+
+#: template-parts/content-single.php:62
+msgid "Plugin's page"
+msgstr "صفحه افزونه"
+
+#: template-parts/content-single.php:80
+msgid ""
+"This post is a reportage post and HamyarWP has not any Responsibility about "
+"it's content."
+msgstr ""
+"این نوشته یک ریپورتاژ آگهی است و همیار وردپرس هیچ مسئولیتی در قبال محتوای آن "
+"ندارد."
+
+#: template-parts/content-single.php:81
+msgid "View ADS Plan"
+msgstr "مشاهده پلن‌های تبلیغاتی"
+
+#: template-parts/content-single.php:100
+#, php-format
+msgid ""
+"<i class=\"fa fa-file-text-o\" aria-hidden=\"true\"></i> Edit<span class="
+"\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+"<i class=\"fa fa-file-text-o\" aria-hidden=\"true\"></i> ویرایش<span class="
+"\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-single.php:137
+msgid "Member of Hamyarwp"
+msgstr " عضو همیار وردپرس"
+
+#: template-parts/content-single.php:148
+msgid "we found an easier way for contact to our users :)"
+msgstr "راه آسان‌تری برای ارتباط با کاربران‌مان پیدا کرده‌ایم :)"
+
+#: template-parts/content-single.php:149
+msgid "HamyarWp Telegram Channel"
+msgstr "کانال تلگرام همیار وردپرس"
+
+#: template-parts/content-single.php:157
+msgid ""
+"If you want get latest posts in your email, insert your email in this fiel "
+"now:"
+msgstr ""
+"اگر می‌خواهید از آخرین و محبوب‌ترین مقالات ما در ایمیل خود مطلع شوید، همین الان "
+"ایمیل خود را در کادر زیر وارد کنید:"
+
+#: template-parts/content-single.php:176
+msgid "Our subscribes until now:"
+msgstr "تعداد علاقه‌مندانی که تاکنون عضو خبرنامه ما شده‌اند:"
+
+#: template-parts/content-single.php:188
+#, php-format
+msgid "%s person"
+msgstr "%s نفر"
+
+#: template-parts/content-top-course.php:4
+msgid "Most Popular Courses"
+msgstr "محبوبترین‌های آموزش آنلاین"
+
+#: template-parts/content-top-course.php:22
+msgid "View All Online Courses"
+msgstr "مشاهده همه آموزش‌های آنلاین"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr "قیمت"
+
+#: woocommerce/cart/cart.php:95
+msgid "Remove this item"
+msgstr "حذف این مورد"
+
+#: woocommerce/cart/cart.php:115
+msgid "Coupon:"
+msgstr "کوپن:"
+
+#: woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr "ممکن است به این محصولات نیز علاقه‌مند باشید&hellip;"
+
+#: woocommerce/checkout/payment-method.php:25
+#, php-format
+msgid " (Balance: %s) "
+msgstr " (موجودی: %s) "
+
+#: woocommerce/checkout/payment-method.php:38
+#, php-format
+msgid ""
+" To increase your balance go to <a href=\"%s\"  target=\"_blank\"> Wallet "
+"Charge </a> section. "
+msgstr ""
+"- برای افزایش موجودی از قسمت <a href=\"%s\"  target=\"_blank\"> شارژ کیف پول "
+"</a> اقدام نمایید."
+
+#: woocommerce/myaccount/dashboard.php:64
+msgid "Time for using this coupon expired :("
+msgstr "مهلت استفاده از این کوپن به پایان رسیده است :("
+
+#: woocommerce/myaccount/dashboard.php:77
+#: woocommerce/myaccount/dashboard.php:128
+msgid "The Course"
+msgstr "دوره‌ی"
+
+#: woocommerce/myaccount/dashboard.php:84
+#: woocommerce/myaccount/dashboard.php:135
+msgid "Coupon cde for you"
+msgstr "کد تخفیف مخصوص شما:"
+
+#: woocommerce/myaccount/dashboard.php:88
+#: woocommerce/myaccount/dashboard.php:139
+msgid "Can be use until:"
+msgstr "قابل استفاده تا:"
+
+#: woocommerce/myaccount/dashboard.php:91
+#: woocommerce/myaccount/dashboard.php:142
+msgid "I purchase it now"
+msgstr "همین الان شرکت می‌کنم"
+
+#: woocommerce/myaccount/dashboard.php:96
+msgid "No coupon found for now"
+msgstr "در حال حاضر تخفیفی نداریم "
+
+#: woocommerce/myaccount/dashboard.php:151
+msgid "Spend money"
+msgstr "جمع خریدها"
+
+#: woocommerce/myaccount/dashboard.php:156
+msgid "Points"
+msgstr "امتیازها"
+
+#: woocommerce/myaccount/dashboard.php:161 woocommerce/single-product.php:234
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#: woocommerce/myaccount/dashboard.php:166
+msgid "Articles"
+msgstr "مقالات"
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "Username or email address"
+msgstr "نام کاربری یا ایمیل"
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: woocommerce/myaccount/form-login.php:91
+#: woocommerce/myaccount/form-login.php:98
+msgid "Lost your password?"
+msgstr "رمز خود را فراموش کرده‌اید؟"
+
+#: woocommerce/myaccount/form-login.php:122
+msgid "Not yet registered"
+msgstr "هنوز عضو نیستید؟"
+
+#: woocommerce/myaccount/form-lost-password.php:51
+msgid "Lost Password"
+msgstr "بازیابی رمز عبور"
+
+#: woocommerce/myaccount/form-lost-password.php:57
+msgid "login to site"
+msgstr "ورود به سایت"
+
+#: woocommerce/single-product-reviews.php:41
+msgid "Name"
+msgstr "نام"
+
+#: woocommerce/single-product-reviews.php:43
+msgid "Email"
+msgstr "ایمیل"
+
+#: woocommerce/single-product-reviews.php:46
+msgid "Submit"
+msgstr "ارسال"
+
+#: woocommerce/single-product-reviews.php:52
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "برای ارسال دیدگاه ابتدا باید <a href=\"%s\">وارد شوید</a>."
+
+#: woocommerce/single-product-reviews.php:56
+msgid "Your Rating"
+msgstr "امتیاز شما"
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Rate&hellip;"
+msgstr "امتیاز&hellip;"
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Perfect"
+msgstr "عالی"
+
+#: woocommerce/single-product-reviews.php:59
+msgid "Good"
+msgstr "خوب"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Average"
+msgstr "متوسط"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Not that bad"
+msgstr "بد نیست"
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Very Poor"
+msgstr "خیلی بد"
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Your Review"
+msgstr "بررسی شما"
+
+#: woocommerce/single-product-reviews.php:74
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"فقط کاربرانی که این محصول را خریداری کرده‌اند قادر به ارسال دیدگاه هستند."
+
+#: woocommerce/single-product-reviews.php:129
+msgid "There are no reviews yet."
+msgstr "دیدگاهی وجود ندارد."
+
+#: woocommerce/single-product.php:59
+msgid "Megabyte"
+msgstr "مگابایت"
+
+#: woocommerce/single-product.php:135
+msgid "Unlimited access to the course"
+msgstr "دسترسی دائمی به آموزش"
+
+#: woocommerce/single-product.php:142
+msgid "Compatible with laptop, tablet and mobile"
+msgstr "سازگار با لپ‌تاپ، تبلت و موبایل"
+
+#: woocommerce/single-product.php:149
+msgid "Course's Teacher support"
+msgstr "پشتیبانی مدرس دوره"
+
+#: woocommerce/single-product.php:156
+msgid "Downloadable"
+msgstr "قابل دانلود"
+
+#: woocommerce/single-product.php:236
+msgid "Course Support"
+msgstr "پشتیبانی دوره"
+
+#: woocommerce/single-product.php:238
+msgid "Course's tickets"
+msgstr "تیکت‌های دوره"
+
+#: woocommerce/single-product.php:252
+msgid "Only customer of this course can submit ticket."
+msgstr "فقط دانشجویان دوره قادر به ارسال تیکت برای مدرس هستند."
+
+#: woocommerce/single-product.php:276
+msgid "Only customer of this course can access to this section."
+msgstr "فقط دانشجویان این دوره قادر به مشاهده این بخش هستند."
+
+#: woocommerce/single-product.php:298
+msgid "There is no ticket yet."
+msgstr "در حال حاضر تیکتی جود ندارد."
+
+#: woocommerce/single-product.php:316
+msgid "Please take a look at this products too"
+msgstr "  از این آموزش‌ها هم دیدن فرمایید"
+
+#: woocommerce/single-product.php:335
+#, php-format
+msgid "Othe %s courses"
+msgstr "سایر آموزش‌های %s"
+
+#~ msgid "Emain days to expire:"
+#~ msgstr "روزهای باقی مانده تا منقضی شدن:"
+
+#~ msgid "After Gift Expired"
+#~ msgstr "پس از منقضی شدن هدیه"
+
+#~ msgid "Most Rates"
+#~ msgstr "پر امتیاز"
+
+#~ msgid "Emails Contents"
+#~ msgstr "محتوای ایمیل‌ها"
+
+#~ msgid "You have an illegal profuct in your cart."
+#~ msgstr "در سبد خرید شما محصولی که قابل خرید با کیف پول نیست وجود دارد."
+
+#~ msgid "Additional info for lesson:"
+#~ msgstr "اطلاعات اضافی فایل:"
+
+#~ msgid "Size (In megabyte):"
+#~ msgstr "حجم (به مگابایت):"
+
+#~ msgid "Headlines"
+#~ msgstr "سرفصل‌ها"
+
+#~ msgid "Dear %s, To download your courses files please use this information:"
+#~ msgstr ""
+#~ "%s عزیز،  برای دانلود فایل‌های دوره‌های خریداری شده خود از مشخصات زیر "
+#~ "استفاده کنید:"
+
+#~ msgid "Username:"
+#~ msgstr "نام کاربری:"
+
+#~ msgid "Password:"
+#~ msgstr "کلمه عبور:"
+
+#~ msgid "Dear %s, for download your course files use this information."
+#~ msgstr "%s   عزیز، برای دانلود فایل‌های این دوره از مشخصات زیر استفاده کنید:"
+
+#~ msgid "download Help"
+#~ msgstr "راهنمای دانلود"
+
+#~ msgid "Download link Generator"
+#~ msgstr "تولید کننده لینک"
+
+#~ msgid "Downloads Settings"
+#~ msgstr "تنظیمات دانلودها"
+
+#~ msgid "Download link generator"
+#~ msgstr "تولید کننده لینک دانلود"
+
+#~ msgid "FTP Server URL"
+#~ msgstr "آدرس سرور FTP"
+
+#~ msgid "FTP Server Username"
+#~ msgstr "نام کاربری FTP"
+
+#~ msgid "FTP Server password"
+#~ msgstr "کلمه عبور FTP"
+
+#~ msgid "Password files directory"
+#~ msgstr "مسیر آپلود فایل‌های پسورد بر روی سرور دانلود"
+
+#~ msgid "Secure file directory"
+#~ msgstr "مسیر فایل ایمن کننده دایرکتوری‌ها"
+
+#~ msgid "Webserver reloader script url"
+#~ msgstr "آدرس اسکریپت ریلود کننده وب سرور"
+
+#~ msgid "Emails subject"
+#~ msgstr "عنوان ایمیل"
+
+#~ msgid "Emails content"
+#~ msgstr "متن ایمیل"
+
+#~ msgid "SMS Username"
+#~ msgstr "نام کاربری سامانه پیامک"
+
+#~ msgid "SMS Password"
+#~ msgstr "کلمه عبور سامانه پیامک"
+
+#~ msgid "SMS Number"
+#~ msgstr "شماره سامانه پیامک"
+
+#~ msgid "SMS content"
+#~ msgstr "متن پیامک"
+
+#~ msgid "Byte"
+#~ msgstr "بایت"
+
+#~ msgid "Kilo Byte"
+#~ msgstr "کیلو بایت"
+
+#~ msgid "Mega Byte"
+#~ msgstr "مگا بایت"
+
+#~ msgid "Tera Byte"
+#~ msgstr "ترا بایت"
+
+#~ msgid "Available for"
+#~ msgstr "معتبر تا "
+
+#~ msgid "Start Download"
+#~ msgstr "شروع دانلود"
+
+#~ msgid "Generate Download Link"
+#~ msgstr "ساخت لینک دانلود"
+
+#~ msgid "Request Download"
+#~ msgstr "درخواست دانلود"
+
+#~ msgid "Bucket name in irans3"
+#~ msgstr "نام باکت در Irans3"
+
+#~ msgid "Taking Course"
+#~ msgstr "شرکت در دوره"
+
+#~ msgid "Close Panel"
+#~ msgstr "بستن پنل"
+
+#~ msgid "View Card"
+#~ msgstr "مشاهده سبد خرید"
+
+#~ msgid "New ticket opened (Sned to Student):"
+#~ msgstr "باز شدن تیکت جدید ("
+
+#~ msgid "Student new ticket opened:"
+#~ msgstr "باز شدن تیکت برای بازکننده:"
+
+#~ msgid "Teacher or Seller new ticket assignment:"
+#~ msgstr "واگذاری تیکت جدید به مدرس:"
+
+#~ msgid "New reply from ticket author:"
+#~ msgstr "پاسخ جدید از نویسنده تیکت (ارسال به مدرس):"
+
+#~ msgid "New reply for ticket author:"
+#~ msgstr "پاسخ جدید برای نویسنده‌ی تیکت:"
+
+#~ msgid "Employee new ticket assignment:"
+#~ msgstr "واگذاری تیکت جدید به کارمند:"
+
+#~ msgid "New reply for ticket assignee:"
+#~ msgstr "پاسخ جدید برای مسئول تیکت:"
+
+#~ msgid "Holding"
+#~ msgstr "در حال بررسی"
+
+#~ msgid "Help"
+#~ msgstr "راهنمایی"
+
+#~ msgid "Report"
+#~ msgstr "گزارش"
+
+#~ msgid "Should contain <strong>[new_ticket]</strong> shortcode"
+#~ msgstr "باید حاوی شورت‌کد <strong>[new_ticket]</strong> باشد."
+
+#~ msgid "Should contain <strong>[tickets]</strong> shortcode"
+#~ msgstr "باید حاوی شورت‌کد <strong>[tickets]</strong>  باشد"
+
+#~ msgid "Ticket Course:"
+#~ msgstr "دوره مرتبط:"
+
+#~ msgid "Unlnown"
+#~ msgstr "نامعلوم"
+
+#~ msgid "You dont have access to this page. Please <a href=\"%s\">Login</a>"
+#~ msgstr "شما به این صفحه دسترسی ندارید. لطفا ابتدا "
+
+#~ msgid "Creation date:"
+#~ msgstr "تاریخ ایجاد:"
+
+#~ msgid "Product:"
+#~ msgstr "محصول:"
+
+#~ msgid "Author is an owner of the product"
+#~ msgstr "نویسنده خریدار محص"
+
+#~ msgid "Method"
+#~ msgstr "روش"
+
+#~ msgid "Overwrite"
+#~ msgstr "دوباره‌نویسی"
+
+#~ msgid ""
+#~ "if you select overwrite upon your next choice crats will be overwrite to "
+#~ "exiting carts. and if select add carts will be added to list."
+#~ msgstr ""
+#~ "اگر دوباره نویسی را انتخاب کنید بسته به انتخاب گزینه‌ی بعدی، کارت‌ها با "
+#~ "کارت‌های موجود در دیتابیس جایگزین خواهند شد. و اگر گزینه اد را انتخاب کنید"
+
+#~ msgid "Import And Export"
+#~ msgstr "درون‌ریزی و برون‌بری"
+
+#~ msgid "You should insert sheba number for amount that are greater than %s"
+#~ msgstr "وارد کردن شماره شبا برای درخواست‌های بیشتر از %s الزامی است."
+
+#~ msgid "Dear %s, your download will be started automatically soon."
+#~ msgstr "%s عزیز، دانلود شما به صورت خودکار شروع خواهد شد."
+
+#~ msgid "Dear %s your download link is ready."
+#~ msgstr "%s عزیز، "
+
+#~ msgid "All Categories"
+#~ msgstr "همه دسته‌ها"
+
+#~ msgid "Popular posts"
+#~ msgstr "محبوب‌ترین مطالب"
+
+#~ msgid "Most popular posts in this month"
+#~ msgstr "محبوب‌ترین‌های این ماه"
+
+#~ msgid "Most popular posts in this week"
+#~ msgstr "محبوب‌ترین‌های این هفته"
+
+#~ msgid "Most popular posts in this year"
+#~ msgstr "محبوب‌ترین‌های سال جاری"
+
+#~ msgid "Custom Filter"
+#~ msgstr "فیلتر دلخواه"
+
+#~ msgid "Number of Students:  %s Student"
+#~ msgstr "تعداد دانشجویان: %s دانشجو"
+
+#~ msgid "Original Price:"
+#~ msgstr "قیمت اصلی:"
+
+#~ msgid "Price for You:"
+#~ msgstr "قیمت برای شما:"
+
+#~ msgid "Time for using this coupon expired."
+#~ msgstr "مهلت استفاده از این کوپن به پایان رسیده است :("
+
+#~ msgid "%s doesn't take any course yet."
+#~ msgstr "%s هنوز در دوره‌ای شرکت نکرده است. "
+
+#~ msgid "Forgot Passwrod"
+#~ msgstr "فراموشی رمز عبور"
+
+#~ msgid "Date range"
+#~ msgstr "بازه زمانی"
+
+#~ msgid "Sliders"
+#~ msgstr "اسلایدر"
+
+#~ msgid "Inserted email doesnt have an account in our site!"
+#~ msgstr "ایمیل وارد شده حساب کاربری در سایت ما ندارد!"
+
+#~ msgid "Inserted email doesn't have an account in our site!, "
+#~ msgstr "ایمیل وارد شده حساب کاربری در سایت ما ندارد!"
+
+#~ msgid "To update download access use this button."
+#~ msgstr ""
+#~ "برای به روز رسانی دسترسی‌های دانلود کاربران، از دکمه‌های زیر استفاده کنید."
+
+#~ msgid "Attention:"
+#~ msgstr "توجه:"
+
+#~ msgid "Error emails receiver"
+#~ msgstr "ایمیل دریافت کننده خطاها"
+
+#~ msgid "Error in updating passwords"
+#~ msgstr "خطا در به روز رسانی پسوردها"
+
+#~ msgid "Downloads Options"
+#~ msgstr "تنظیمات دانلودها"
+
+#~ msgid "Sort"
+#~ msgstr "مرتب‌سازی"
+
+#~ msgid "Failed payment message"
+#~ msgstr "پیغام پرداخت ناموفق"
+
+#~ msgid "Your payment failed. please try again."
+#~ msgstr "پرداخت شما نا موفق بود. لطفا دوباره سعی کنید."
+
+#~ msgid "Your Balance: (%s)"
+#~ msgstr "موجودی شما: (%s)"
+
+#~ msgid "Username"
+#~ msgstr "نام کاربری"
+
+#~ msgid "Email address"
+#~ msgstr "آدرس ایمیل"
+
+#~ msgid "Anti-spam"
+#~ msgstr "ضد اسپم"
+
+#~ msgid "HamyarWP Users Permalinks"
+#~ msgstr "سشیشی"
+
+#~ msgid "Users Permalinks"
+#~ msgstr "پیوند یکتای کاربران"
+
+#~ msgid "Sort Woocommerce Account Tabs"
+#~ msgstr "مرتب سازی تب‌های پروفایل ووکامرس"
+
+#~ msgid "User Charge Cart"
+#~ msgstr "استفاده ازکارت شارژ"
+
+#~ msgid "Apply charge form:"
+#~ msgstr "فرم اعمال کد شارژ:"
+
+#~ msgid "You shoulde insert sheba number for amount that are greater than %s"
+#~ msgstr "برای مبالغ بیشتر از %s وارد کردن شماره شبا الزامی است."
+
+#~ msgid "Attention"
+#~ msgstr "توجه÷"
+
+#~ msgid "I purchase it now:"
+#~ msgstr "همین الان شرکت می‌کنم"
+
+#~ msgid "Your Wallet Balance"
+#~ msgstr "موجودی کیف پول شما"
+
+#~ msgid "User Profile"
+#~ msgstr "پنل کاربری"
+
+#~ msgid "The charge code is expired or used before."
+#~ msgstr "کارت شارژ وارد شده قبلا استفاده شده یا منقضی شده است."
+
+#~ msgid "Categories"
+#~ msgstr "دسته‌بندی:"
+
+#~ msgid "Number of WooCommerce products displayed per page"
+#~ msgstr "تعداد محصولات در هر صفحه‌ی ووکامرس"
+
+#~ msgid "person"
+#~ msgstr "نفر"
+
+#~ msgid "Free subscription in newsletter"
+#~ msgstr "عضویت رایگان در خبرنامه"
+
+#~ msgid "Our subscribes until now"
+#~ msgstr "تعداد علاقه‌مندانی که تاکنون عضو خبرنامه ما شده‌اند:"
+
+#~ msgid "Newsletter Group"
+#~ msgstr "گروه خبرنامه"
+
+#~ msgid "Rewards Settings"
+#~ msgstr "تنظیمات هدیه"
+
+#~ msgid "HamyarWp App"
+#~ msgstr "اپ همیار وردپرس"
+
+#~ msgid "View All Product"
+#~ msgstr "مشاهده همه آموزش‌های آنلاین"
+
+#~ msgid "Your card im empty"
+#~ msgstr "سبد خرید شما خالی است!"

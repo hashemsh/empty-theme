@@ -1,0 +1,536 @@
+@media (max-width: 1199px) {
+    .courses_notice_bg {
+        background-position: -50px 0;
+    }
+    body.rtl article.post.box .entry-header .entry-meta>span {
+        width: 50%;
+        margin: 0;
+        line-height: 35px;
+    }
+    body.rtl article.post.box .entry-header .entry-meta>span i {
+        margin-top: 8px;
+    }
+    article.post.box .entry-header .entry-meta .rating {
+        width: 100%;
+        margin: 0;
+    }
+    .rate-loader {
+        float: left;
+    }
+    .hwp-rating {
+        float: left;
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    .rate_summary {
+        margin-left: 10px;
+        margin-right: 0;
+        float: left;
+    }
+    ul.products li article {
+        height: 425px;
+    }
+    ul.hwp_filter li {
+        padding: 0 5px;
+    }
+
+    .widget_menu a.add_to_wishlist[data-tooltip]:before {
+        position: static;
+        float: left;
+        -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+        transform: translateX(0);
+        opacity: 1;
+        background: none;
+        font-size: 13px;
+    }
+    .widget_menu a.add_to_wishlist[data-tooltip]:after {
+        display: none;
+    }
+    .widget_menu a.add_to_wishlist i {
+        margin-top: 7px;
+    }
+}
+
+
+/* Max width: 1199px */
+
+@media (max-width: 991px) {
+    .courses_notice {
+        height: 81px;
+        line-height: 81px;
+    }
+    .courses_notice_bg {
+        background-position: -80px 0;
+        background-size: 80%;
+    }
+    .courses_notice .col-xs-12.col-md-6 {
+        text-align: right;
+    }
+    ul.hwp_filter li {
+        padding: 0 5px;
+    }
+    ul.products li article {
+        height: 453px;
+    }
+}
+
+
+/* Max width: 991px */
+
+@media (max-width: 767px) {
+    section.right_area, aside.header_bar ul.search_cart_mobile {
+        text-align: center;
+    }
+    aside.header_bar ul.search_cart_mobile {
+        margin-bottom: 0;
+        margin-top: 25px;
+    }
+    aside.header_bar ul.search_cart_mobile li {
+        float: none;
+        display: inline-block;
+    }
+    section.posts article {
+        height: auto;
+    }
+    section.posts figure.thumbnail {
+        float: right;
+        width: 100px;
+        margin: 10px;
+    }
+    section.posts article header.entry-header h2 {
+        width: auto;
+    }
+    section.posts article header.entry-header {
+        height: auto;
+        float: none;
+    }
+    section.posts article .entry-content {
+        width: auto;
+    }
+    section.posts article .entry-content .preview {
+        position: static;
+        width: auto;
+    }
+    section.posts article .entry-content .preview a {
+        float: none;
+        display: inline-block;
+        width: auto;
+        padding: 0 20px;
+        height: 35px;
+        line-height: 35px;
+    }
+    ul.products li article {
+        height: auto;
+    }
+    ul.products li .thumbnail {
+        float: right;
+        width: 100px;
+        margin: 10px;
+        box-shadow: none;
+    }
+    ul.products li section {
+        float: none;
+    }
+    ul.products li section h2 {
+        margin: 0;
+        height: 50px;
+        border-bottom: 1px solid #f3f3f3;
+        padding-bottom: 10px;
+        overflow: hidden;
+        line-height: 22px;
+    }
+    ul.products li section .excerpt {
+        float: none;
+        display: inline-block;
+        width: auto;
+        border: none;
+    }
+    ul.products li section .excerpt .price,
+    ul.products li section .excerpt .students {
+        text-align: right;
+        float: right;
+        display: inline-block;
+        width: auto;
+        margin-left: 25px;
+    }
+    ul.products li section .gift {
+        float: left;
+        border: none;
+        width: auto;
+        display: inline-block;
+        margin-top: 0;
+    }
+    ul.products li section .gift i {
+        display: none;
+        font-weight: bold;
+    }
+    ul.products li section .gift span.woocommerce-Price-amount.amount {
+        display: block;
+    }
+    ul.products li section .more_info {
+        position: static;
+    }
+    ul.products li section .more_info a {
+        height: 34px;
+        line-height: 34px;
+    }
+    .courses_notice_bg {
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+    .courses_notice .col-xs-12.col-md-6 {
+        text-align: center;
+    }
+    .interaction {
+        text-align: center;
+    }
+    .android {
+        float: none;
+        display: inline-block;
+        text-align: right;
+    }
+    .end ul.socials {
+        text-align: center;
+        float: right;
+        width: 100%;
+        border-top: 2px solid #ebecee;
+        padding-top: 15px;
+        margin-top: 10px;
+    }
+    .end ul.socials li {
+        float: none;
+        display: inline-block;
+    }
+    ul.hwp_filter li {
+        padding: 0 5px;
+    }
+    article.post.box .entry-header .entry-meta .rating {
+        width: 50%;
+        margin: 5px 0 0!important;
+        float: right;
+    }
+    article .entry-content .no_responsibility a.hwp_btn {
+        float: none !important;
+        margin: 5px auto;
+        display: block;
+    }
+
+    .box.product_related ul.products li article,
+    .box.teacher_other_course ul.products li article {
+        height: auto;
+    }
+}
+
+
+/* Max width: 767px */
+
+@media (max-width: 480px) {
+    main.main {
+        padding-bottom: 30px;
+    }
+    .no_responsibility p {
+        line-height: 2;
+    }
+    .box header.title h4 input[type="checkbox"].ios_btn+label, .box header.title h4 input[type=checkbox].ios_btn {
+        display: none;
+    }
+    .box header.title h4 {
+        font-size: 14px;
+    }
+    .breadcrumb_container {
+        display: none;
+    }
+    .box.product_related ul.products li article {
+        height: auto !important;
+    }
+    .woocommerce ul.products li.product {
+        width: 100%;
+        margin: 0 0 0.5em;
+    }
+    .interaction .col-xs-12:last-child {
+        text-align: center;
+    }
+    .interaction .android {
+        float: none;
+        display: inline-block;
+    }
+    .interaction input[type=email], .interaction button {
+        width: calc(100% - 5px);
+    }
+    .courses_notice {
+        display: none;
+        line-height: normal;
+        height: auto;
+        padding: 20px 0;
+    }
+    .courses_notice a {
+        margin-top: 10px;
+    }
+    .courses_notice_bg {
+        background: none;
+    }
+    .courses_notice .col-xs-6 {
+        text-align: center;
+        width: 100%;
+    }
+    .courses_notice .col-xs-12.col-lg-6 {
+        text-align: center;
+    }
+    .end {
+        display: none;
+    }
+    .end ul {
+        display: inline-block;
+    }
+    .end ul li {
+        float: none;
+        display: inline-block;
+        margin: 0 15px;
+        line-height: 25px;
+    }
+    .end ul.socials {
+        margin-top: 20px;
+    }
+    .contactus ul.socials {
+        text-align: center;
+    }
+    .contactus ul.socials li {
+        display: inline-block;
+        float: none;
+    }
+    .contactus ul.socials li:first-child {
+        margin-right: 0;
+    }
+    section.posts article {
+        padding-bottom: 10px;
+    }
+    .product_icons ul li {
+        width: 100% !important;
+        box-sizing: border-box;
+        margin: 10px 0;
+    }
+    .woocommerce #review_form #respond .form-submit input {
+        width: 100%;
+        margin: 10px 0 0;
+    }
+    ul.hwp_filter li {
+        width: 100%;
+    }
+    ul.hwp_filter li button.hwp_btn {
+        float: left;
+    }
+    .filter .spinner {
+        float: left;
+        margin-left: 15px;
+    }
+    .no_responsibility {
+        line-height: normal !important;
+    }
+    .no_responsibility p {
+        text-align: center;
+    }
+    body.single article.post.box .entry-content .no_responsibility a.hwp_btn {
+        float: none !important;
+        display: block;
+    }
+    a.telegram_chanel {
+        text-align: center;
+    }
+    a.telegram_chanel span:first-of-type {
+        display: none;
+    }
+    a.telegram_chanel span:last-child {
+        float: none !important;
+        padding: 5px 10px;
+    }
+    .contactus address.phone {
+        text-align: center;
+    }
+    article.post.box .entry-header .entry-meta .rating {
+        width: 100%;
+        margin: 5px 0 0!important;
+        float: right;
+    }
+    body.rtl article.post.box .entry-header .entry-meta>span {
+        width: 100%;
+    }
+    aside.header_bar ul.search_cart_mobile li:last-child {
+        display: block;
+        width: 125px;
+        margin: 0 auto;
+    }
+    aside.header_bar ul.search_cart_mobile li:last-child a {
+        background: transparent;
+    }
+    /*.toolbar ul li:last-child {
+      display: none;
+    }*/
+    #search_popup form {
+        width: 90%;
+    }
+    #search_popup a.cancel {
+        width: 10%;
+    }
+    section.posts figure.thumbnail {
+        width: 100%;
+        margin: 0;
+    }
+    footer.footer .story {
+        display: none;
+    }
+    .interaction form.newsletter {
+        display: none;
+    }
+
+    ul.products li section h2 {
+        height: auto;
+        line-height: 25px;
+    }
+}
+
+
+/* Max width: 480px */
+
+@media (max-width:480px) and (min-width:240px) {
+    ul.products li .thumbnail {
+        width: 100%;
+        margin: 0;
+        padding: 10px;
+    }
+    .article_subscribe input[type=text],
+    .article_subscribe input[type=email] {
+        width: 100% !important;
+        margin: 5px 0 !important;
+    }
+
+    .article_subscribe button {
+        width: 100% !important;
+    }
+    .article_subscribe form {
+        width: 100% !important;
+        float: right;
+    }
+    .article_subscribe p {
+        width: 100% !important;
+        float: right;
+    }
+    .article_subscribe button {
+        width: 100% !important;
+    }
+    .comments-area .comment-form p {
+        width: 100% !important;
+    }
+    #comments input[type=button], #comments input[type=submit] {
+        width: 100%;
+    }
+    #comments ol.comment-list ul.children {
+        margin: 20px 0 0 0 !important;
+        padding: 0;
+    }
+    #comments ol.comment-list ul.children:before {
+        display: none !important;
+    }
+    #comments ol.comment-list ul.children:after {
+        display: none !important;
+    }
+    #comments ol.comment-list li {
+        padding: 0 !important;
+    }
+    #comments ol.comment-list ul.children li .comment_container:before {
+        content: none !important;
+    }
+    #comments ol.comment-list ul.children li img.avatar {
+        right: -56px !important;
+    }
+    #comments ol.comment-list li img.avatar {
+        width: 50px !important;
+        height: 50px;
+        right: -50px;
+    }
+    #comments ol.comment-list li .comment-text .reply {
+        width: auto;
+        text-align: center;
+        margin-bottom: 10px;
+        float: left;
+    }
+    #comments ol.comment-list li .comment-text .description {
+      line-height: 2;
+    }
+    .toolbar ul li a.phone {
+        display: none;
+    }
+    .toolbar ul li {
+        margin-right: 10px;
+    }
+    .contactus ul.socials li {
+        margin-right: 0;
+    }
+    #search_popup form {
+        width: 85%;
+    }
+    #search_popup a.cancel {
+        width: 15%;
+    }
+    ul.products li .thumbnail img {
+        max-height: 100%;
+    }
+    section.posts article {
+        padding: 0;
+    }
+    ul.products li section {
+        float: right;
+        width: 100%;
+        padding: 0;
+    }
+    ul.products li section h2 {
+        padding: 15px;
+    }
+    ul.products li section .excerpt {
+        width: 70%;
+        padding: 15px 0;
+    }
+    ul.products li section .gift {
+        width: 30%;
+        text-align: center;
+        padding: 15px 0;
+    }
+    .woocommerce ul.products li.product .price {
+        margin-bottom: 0;
+    }
+    ul.products li section .excerpt .price, ul.products li section .excerpt .students {
+        width: 50%;
+        margin: 0;
+        text-align: center;
+        box-sizing: border-box;
+        display: inline-block !important;
+    }
+    ul.products li section .more_info {
+        position: relative;
+        float: right;
+        width: 100%;
+    }
+    ul.products li section .more_info a {
+        height: 45px;
+        line-height: 45px;
+    }
+    ul.main_lessons>li span.time_duration {
+        display: none;
+    }
+
+    .woocommerce #review_form #respond p {
+      width: 100% !important;
+    }
+
+    section.posts article .entry-content {
+        width: 100%;
+        padding: 15px;
+    }
+    section.posts article .entry-content .preview a {
+        display: block;
+    }
+}
+
+​
+/* Max width: 240px and 480px */
